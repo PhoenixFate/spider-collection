@@ -1,0 +1,6 @@
+.idea
+venv
+null
+*.iml
+news.json
+news_detail.json
