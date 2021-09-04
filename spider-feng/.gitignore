@@ -2,5 +2,5 @@
 venv
 null
 *.iml
-news.json
+code/news.json
 news_detail.json
