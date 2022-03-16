@@ -20,6 +20,8 @@ def save_to_mongo(news_array):
                 collection.insert(news)
                 # 查询新闻详情
                 spider_detail_news(news["tid"])
+            else:
+                print("该新闻已经存在")
 
     except Exception as e:
         print('存储到MongoDb失败', e)
