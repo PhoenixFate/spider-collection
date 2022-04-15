@@ -3,7 +3,7 @@ import pymongo  # 引入pymongo模块
 
 
 def save_detail_to_mongo(news_detail, tid):
-    client = pymongo.MongoClient(host='114.67.89.253', port=40017)  # 进行连接
+    client = pymongo.MongoClient(host='www.bytes-space.com', port=50017)  # 进行连接
     db = client.feng  # 指定数据库
     db.authenticate("feng", "feng")
     collection = db.fengNewsDetail  # 指定集合
