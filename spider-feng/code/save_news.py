@@ -4,7 +4,7 @@ from spider_news_detail import spider_detail_news
 
 
 def save_to_mongo(news_array):
-    client = pymongo.MongoClient(host='114.67.89.253', port=40017)  # 进行连接
+    client = pymongo.MongoClient(host='www.bytes-space.com', port=50017)  # 进行连接
     db = client.feng  # 指定数据库
     db.authenticate("feng", "feng")
     collection = db.fengNews  # 指定集合
@@ -20,6 +20,8 @@ def save_to_mongo(news_array):
                 collection.insert(news)
                 # 查询新闻详情
                 spider_detail_news(news["tid"])
+            else:
+                print("该新闻已经存在")
 
     except Exception as e:
         print('存储到MongoDb失败', e)

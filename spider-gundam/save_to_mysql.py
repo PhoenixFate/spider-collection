@@ -1,6 +1,6 @@
 import pymysql
 
-host = '114.67.89.253'
+host = 'www.bytes-space.com'
 port = 41306
 user = 'root'
 password = 'centos123qwer'
