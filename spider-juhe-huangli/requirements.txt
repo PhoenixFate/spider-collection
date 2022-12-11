@@ -1,0 +1,9 @@
+pycryptodome
+requests
+js2py
+retrying
+openpyxl
+wheel
+pymongo==3.9.0
+schedule
+demjson
