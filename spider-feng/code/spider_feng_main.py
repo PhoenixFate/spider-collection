@@ -1,4 +1,5 @@
 import math
+import threading
 import time
 import requests
 import json
@@ -52,10 +53,15 @@ def spider_news():
     save_to_mongo(json_result["data"]["dataList"]["contentsList"])
 
 
+def job_spider_news():
+    threading.Thread(target=spider_news).start()
+
+
 if __name__ == '__main__':
     print("spider of feng starts successfully")
-    spider_news()
+    job_spider_news()
     # 每一个小时跑一次爬虫
-    schedule.every(6).hours.do(spider_news)
+    schedule.every(6).hours.do(job_spider_news)
     while True:
         schedule.run_pending()
+        time.sleep(1)
