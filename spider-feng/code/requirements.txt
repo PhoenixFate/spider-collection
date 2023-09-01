@@ -1,3 +1,4 @@
+urllib3==1.23
 pycryptodome
 requests
 js2py

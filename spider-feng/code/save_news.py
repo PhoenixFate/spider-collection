@@ -4,9 +4,9 @@ from spider_news_detail import spider_detail_news
 
 
 def save_to_mongo(news_array):
-    client = pymongo.MongoClient(host='www.bytes-space.com', port=50017)  # 进行连接
+    client = pymongo.MongoClient(host='www.bytes-space.com', port=21017)  # 进行连接
     db = client.feng  # 指定数据库
-    db.authenticate("feng", "feng")
+    db.authenticate("feng", "Common123qwer!@#")
     collection = db.fengNews  # 指定集合
     try:
         for news in news_array:
