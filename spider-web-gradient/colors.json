@@ -1,0 +1,1649 @@
+[
+    {
+        "title": "001 Warm Flame",
+        "image_url": "https://webgradients.com/public/webgradients_png/001 Warm Flame.png",
+        "css_code": "background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);",
+        "colors": [
+            "#ff9a9e",
+            "#fad0c4"
+        ],
+        "colors_string": "#ff9a9e,#fad0c4"
+    },
+    {
+        "title": "002 Night Fade",
+        "image_url": "https://webgradients.com/public/webgradients_png/002 Night Fade.png",
+        "css_code": "background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);",
+        "colors": [
+            "#a18cd1",
+            "#fbc2eb"
+        ],
+        "colors_string": "#a18cd1,#fbc2eb"
+    },
+    {
+        "title": "003 Spring Warmth",
+        "image_url": "https://webgradients.com/public/webgradients_png/003 Spring Warmth.png",
+        "css_code": "background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);",
+        "colors": [
+            "#fad0c4",
+            "#ffd1ff"
+        ],
+        "colors_string": "#fad0c4,#ffd1ff"
+    },
+    {
+        "title": "004 Juicy Peach",
+        "image_url": "https://webgradients.com/public/webgradients_png/004 Juicy Peach.png",
+        "css_code": "background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);",
+        "colors": [
+            "#ffecd2",
+            "#fcb69f"
+        ],
+        "colors_string": "#ffecd2,#fcb69f"
+    },
+    {
+        "title": "005 Young Passion",
+        "image_url": "https://webgradients.com/public/webgradients_png/005 Young Passion.png",
+        "css_code": "background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "006 Lady Lips",
+        "image_url": "https://webgradients.com/public/webgradients_png/006 Lady Lips.png",
+        "css_code": "background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);",
+        "colors": [
+            "#ff9a9e",
+            "#fecfef"
+        ],
+        "colors_string": "#ff9a9e,#fecfef"
+    },
+    {
+        "title": "007 Sunny Morning",
+        "image_url": "https://webgradients.com/public/webgradients_png/007 Sunny Morning.png",
+        "css_code": "background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);",
+        "colors": [
+            "#f6d365",
+            "#fda085"
+        ],
+        "colors_string": "#f6d365,#fda085"
+    },
+    {
+        "title": "008 Rainy Ashville",
+        "image_url": "https://webgradients.com/public/webgradients_png/008 Rainy Ashville.png",
+        "css_code": "background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);",
+        "colors": [
+            "#fbc2eb",
+            "#a6c1ee"
+        ],
+        "colors_string": "#fbc2eb,#a6c1ee"
+    },
+    {
+        "title": "009 Frozen Dreams",
+        "image_url": "https://webgradients.com/public/webgradients_png/009 Frozen Dreams.png",
+        "css_code": "background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);",
+        "colors": [
+            "#fdcbf1",
+            "#e6dee9"
+        ],
+        "colors_string": "#fdcbf1,#e6dee9"
+    },
+    {
+        "title": "010 Winter Neva",
+        "image_url": "https://webgradients.com/public/webgradients_png/010 Winter Neva.png",
+        "css_code": "background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);",
+        "colors": [
+            "#a1c4fd",
+            "#c2e9fb"
+        ],
+        "colors_string": "#a1c4fd,#c2e9fb"
+    },
+    {
+        "title": "011 Dusty Grass",
+        "image_url": "https://webgradients.com/public/webgradients_png/011 Dusty Grass.png",
+        "css_code": "background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);",
+        "colors": [
+            "#d4fc79",
+            "#96e6a1"
+        ],
+        "colors_string": "#d4fc79,#96e6a1"
+    },
+    {
+        "title": "012 Tempting Azure",
+        "image_url": "https://webgradients.com/public/webgradients_png/012 Tempting Azure.png",
+        "css_code": "background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);",
+        "colors": [
+            "#84fab0",
+            "#8fd3f4"
+        ],
+        "colors_string": "#84fab0,#8fd3f4"
+    },
+    {
+        "title": "013 Heavy Rain",
+        "image_url": "https://webgradients.com/public/webgradients_png/013 Heavy Rain.png",
+        "css_code": "background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);",
+        "colors": [
+            "#cfd9df",
+            "#e2ebf0"
+        ],
+        "colors_string": "#cfd9df,#e2ebf0"
+    },
+    {
+        "title": "014 Amy Crisp",
+        "image_url": "https://webgradients.com/public/webgradients_png/014 Amy Crisp.png",
+        "css_code": "background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);",
+        "colors": [
+            "#a6c0fe",
+            "#f68084"
+        ],
+        "colors_string": "#a6c0fe,#f68084"
+    },
+    {
+        "title": "015 Mean Fruit",
+        "image_url": "https://webgradients.com/public/webgradients_png/015 Mean Fruit.png",
+        "css_code": "background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);",
+        "colors": [
+            "#fccb90",
+            "#d57eeb"
+        ],
+        "colors_string": "#fccb90,#d57eeb"
+    },
+    {
+        "title": "016 Deep Blue",
+        "image_url": "https://webgradients.com/public/webgradients_png/016 Deep Blue.png",
+        "css_code": "background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);",
+        "colors": [
+            "#e0c3fc",
+            "#8ec5fc"
+        ],
+        "colors_string": "#e0c3fc,#8ec5fc"
+    },
+    {
+        "title": "017 Ripe Malinka",
+        "image_url": "https://webgradients.com/public/webgradients_png/017 Ripe Malinka.png",
+        "css_code": "background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);",
+        "colors": [
+            "#f093fb",
+            "#f5576c"
+        ],
+        "colors_string": "#f093fb,#f5576c"
+    },
+    {
+        "title": "018 Cloudy Knoxville",
+        "image_url": "https://webgradients.com/public/webgradients_png/018 Cloudy Knoxville.png",
+        "css_code": "background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);",
+        "colors": [
+            "#fdfbfb",
+            "#ebedee"
+        ],
+        "colors_string": "#fdfbfb,#ebedee"
+    },
+    {
+        "title": "019 Malibu Beach",
+        "image_url": "https://webgradients.com/public/webgradients_png/019 Malibu Beach.png",
+        "css_code": "background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);",
+        "colors": [
+            "#4facfe",
+            "#00f2fe"
+        ],
+        "colors_string": "#4facfe,#00f2fe"
+    },
+    {
+        "title": "020 New Life",
+        "image_url": "https://webgradients.com/public/webgradients_png/020 New Life.png",
+        "css_code": "background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);",
+        "colors": [
+            "#43e97b",
+            "#38f9d7"
+        ],
+        "colors_string": "#43e97b,#38f9d7"
+    },
+    {
+        "title": "021 True Sunset",
+        "image_url": "https://webgradients.com/public/webgradients_png/021 True Sunset.png",
+        "css_code": "background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);",
+        "colors": [
+            "#fa709a",
+            "#fee140"
+        ],
+        "colors_string": "#fa709a,#fee140"
+    },
+    {
+        "title": "022 Morpheus Den",
+        "image_url": "https://webgradients.com/public/webgradients_png/022 Morpheus Den.png",
+        "css_code": "background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);",
+        "colors": [
+            "#30cfd0",
+            "#330867"
+        ],
+        "colors_string": "#30cfd0,#330867"
+    },
+    {
+        "title": "023 Rare Wind",
+        "image_url": "https://webgradients.com/public/webgradients_png/023 Rare Wind.png",
+        "css_code": "background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);",
+        "colors": [
+            "#a8edea",
+            "#fed6e3"
+        ],
+        "colors_string": "#a8edea,#fed6e3"
+    },
+    {
+        "title": "024 Near Moon",
+        "image_url": "https://webgradients.com/public/webgradients_png/024 Near Moon.png",
+        "css_code": "background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);",
+        "colors": [
+            "#5ee7df",
+            "#b490ca"
+        ],
+        "colors_string": "#5ee7df,#b490ca"
+    },
+    {
+        "title": "025 Wild Apple",
+        "image_url": "https://webgradients.com/public/webgradients_png/025 Wild Apple.png",
+        "css_code": "background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);",
+        "colors": [
+            "#d299c2",
+            "#fef9d7"
+        ],
+        "colors_string": "#d299c2,#fef9d7"
+    },
+    {
+        "title": "026 Saint Petersburg",
+        "image_url": "https://webgradients.com/public/webgradients_png/026 Saint Petersburg.png",
+        "css_code": "background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);",
+        "colors": [
+            "#f5f7fa",
+            "#c3cfe2"
+        ],
+        "colors_string": "#f5f7fa,#c3cfe2"
+    },
+    {
+        "title": "027 Arielle's Smile",
+        "image_url": "https://webgradients.com/public/webgradients_png/027 Arielle's Smile.png",
+        "css_code": "background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "028 Plum Plate",
+        "image_url": "https://webgradients.com/public/webgradients_png/028 Plum Plate.png",
+        "css_code": "background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);",
+        "colors": [
+            "#667eea",
+            "#764ba2"
+        ],
+        "colors_string": "#667eea,#764ba2"
+    },
+    {
+        "title": "029 Everlasting Sky",
+        "image_url": "https://webgradients.com/public/webgradients_png/029 Everlasting Sky.png",
+        "css_code": "background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);",
+        "colors": [
+            "#fdfcfb",
+            "#e2d1c3"
+        ],
+        "colors_string": "#fdfcfb,#e2d1c3"
+    },
+    {
+        "title": "030 Happy Fisher",
+        "image_url": "https://webgradients.com/public/webgradients_png/030 Happy Fisher.png",
+        "css_code": "background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);",
+        "colors": [
+            "#89f7fe",
+            "#66a6ff"
+        ],
+        "colors_string": "#89f7fe,#66a6ff"
+    },
+    {
+        "title": "031 Blessing",
+        "image_url": "https://webgradients.com/public/webgradients_png/031 Blessing.png",
+        "css_code": "background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);",
+        "colors": [
+            "#fddb92",
+            "#d1fdff"
+        ],
+        "colors_string": "#fddb92,#d1fdff"
+    },
+    {
+        "title": "032 Sharpeye Eagle",
+        "image_url": "https://webgradients.com/public/webgradients_png/032 Sharpeye Eagle.png",
+        "css_code": "background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);",
+        "colors": [
+            "#9890e3",
+            "#b1f4cf"
+        ],
+        "colors_string": "#9890e3,#b1f4cf"
+    },
+    {
+        "title": "033 Ladoga Bottom",
+        "image_url": "https://webgradients.com/public/webgradients_png/033 Ladoga Bottom.png",
+        "css_code": "background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);",
+        "colors": [
+            "#ebc0fd",
+            "#d9ded8"
+        ],
+        "colors_string": "#ebc0fd,#d9ded8"
+    },
+    {
+        "title": "034 Lemon Gate",
+        "image_url": "https://webgradients.com/public/webgradients_png/034 Lemon Gate.png",
+        "css_code": "background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);",
+        "colors": [
+            "#96fbc4",
+            "#f9f586"
+        ],
+        "colors_string": "#96fbc4,#f9f586"
+    },
+    {
+        "title": "035 Itmeo Branding",
+        "image_url": "https://webgradients.com/public/webgradients_png/035 Itmeo Branding.png",
+        "css_code": "background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);",
+        "colors": [
+            "#2af598",
+            "#009efd"
+        ],
+        "colors_string": "#2af598,#009efd"
+    },
+    {
+        "title": "036 Zeus Miracle",
+        "image_url": "https://webgradients.com/public/webgradients_png/036 Zeus Miracle.png",
+        "css_code": "background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);",
+        "colors": [
+            "#cd9cf2",
+            "#f6f3ff"
+        ],
+        "colors_string": "#cd9cf2,#f6f3ff"
+    },
+    {
+        "title": "037 Old Hat",
+        "image_url": "https://webgradients.com/public/webgradients_png/037 Old Hat.png",
+        "css_code": "background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "038 Star Wine",
+        "image_url": "https://webgradients.com/public/webgradients_png/038 Star Wine.png",
+        "css_code": "background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "039 Deep Blue",
+        "image_url": "https://webgradients.com/public/webgradients_png/039 Deep Blue.png",
+        "css_code": "background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);",
+        "colors": [
+            "#6a11cb",
+            "#2575fc"
+        ],
+        "colors_string": "#6a11cb,#2575fc"
+    },
+    {
+        "title": "040 Coup de Grace",
+        "image_url": "https://webgradients.com/public/webgradients_png/040 Coup de Grace.png",
+        "css_code": "background-color: #DCD9D4;\r\n background-image: linear-gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);\r\n background-blend-mode: soft-light,screen;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "041 Happy Acid",
+        "image_url": "https://webgradients.com/public/webgradients_png/041 Happy Acid.png",
+        "css_code": "background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);",
+        "colors": [
+            "#37ecba",
+            "#72afd3"
+        ],
+        "colors_string": "#37ecba,#72afd3"
+    },
+    {
+        "title": "042 Awesome Pine",
+        "image_url": "https://webgradients.com/public/webgradients_png/042 Awesome Pine.png",
+        "css_code": "background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);",
+        "colors": [
+            "#ebbba7",
+            "#cfc7f8"
+        ],
+        "colors_string": "#ebbba7,#cfc7f8"
+    },
+    {
+        "title": "043 New York",
+        "image_url": "https://webgradients.com/public/webgradients_png/043 New York.png",
+        "css_code": "background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);",
+        "colors": [
+            "#fff1eb",
+            "#ace0f9"
+        ],
+        "colors_string": "#fff1eb,#ace0f9"
+    },
+    {
+        "title": "044 Shy Rainbow",
+        "image_url": "https://webgradients.com/public/webgradients_png/044 Shy Rainbow.png",
+        "css_code": "background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "045 Loon Crest",
+        "image_url": "https://webgradients.com/public/webgradients_png/045 Loon Crest.png",
+        "css_code": "background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;\r\n background-blend-mode: multiply,multiply;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "046 Mixed Hopes",
+        "image_url": "https://webgradients.com/public/webgradients_png/046 Mixed Hopes.png",
+        "css_code": "background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);",
+        "colors": [
+            "#c471f5",
+            "#fa71cd"
+        ],
+        "colors_string": "#c471f5,#fa71cd"
+    },
+    {
+        "title": "047 Fly High",
+        "image_url": "https://webgradients.com/public/webgradients_png/047 Fly High.png",
+        "css_code": "background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);",
+        "colors": [
+            "#48c6ef",
+            "#6f86d6"
+        ],
+        "colors_string": "#48c6ef,#6f86d6"
+    },
+    {
+        "title": "048 Strong Bliss",
+        "image_url": "https://webgradients.com/public/webgradients_png/048 Strong Bliss.png",
+        "css_code": "background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "049 Fresh Milk",
+        "image_url": "https://webgradients.com/public/webgradients_png/049 Fresh Milk.png",
+        "css_code": "background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);",
+        "colors": [
+            "#feada6",
+            "#f5efef"
+        ],
+        "colors_string": "#feada6,#f5efef"
+    },
+    {
+        "title": "050 Snow Again",
+        "image_url": "https://webgradients.com/public/webgradients_png/050 Snow Again.png",
+        "css_code": "background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);",
+        "colors": [
+            "#e6e9f0",
+            "#eef1f5"
+        ],
+        "colors_string": "#e6e9f0,#eef1f5"
+    },
+    {
+        "title": "051 February Ink",
+        "image_url": "https://webgradients.com/public/webgradients_png/051 February Ink.png",
+        "css_code": "background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);",
+        "colors": [
+            "#accbee",
+            "#e7f0fd"
+        ],
+        "colors_string": "#accbee,#e7f0fd"
+    },
+    {
+        "title": "052 Kind Steel",
+        "image_url": "https://webgradients.com/public/webgradients_png/052 Kind Steel.png",
+        "css_code": "background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);",
+        "colors": [
+            "#e9defa",
+            "#fbfcdb"
+        ],
+        "colors_string": "#e9defa,#fbfcdb"
+    },
+    {
+        "title": "053 Soft Grass",
+        "image_url": "https://webgradients.com/public/webgradients_png/053 Soft Grass.png",
+        "css_code": "background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);",
+        "colors": [
+            "#c1dfc4",
+            "#deecdd"
+        ],
+        "colors_string": "#c1dfc4,#deecdd"
+    },
+    {
+        "title": "054 Grown Early",
+        "image_url": "https://webgradients.com/public/webgradients_png/054 Grown Early.png",
+        "css_code": "background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);",
+        "colors": [
+            "#0ba360",
+            "#3cba92"
+        ],
+        "colors_string": "#0ba360,#3cba92"
+    },
+    {
+        "title": "055 Sharp Blues",
+        "image_url": "https://webgradients.com/public/webgradients_png/055 Sharp Blues.png",
+        "css_code": "background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);",
+        "colors": [
+            "#00c6fb",
+            "#005bea"
+        ],
+        "colors_string": "#00c6fb,#005bea"
+    },
+    {
+        "title": "056 Shady Water",
+        "image_url": "https://webgradients.com/public/webgradients_png/056 Shady Water.png",
+        "css_code": "background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);",
+        "colors": [
+            "#74ebd5",
+            "#9face6"
+        ],
+        "colors_string": "#74ebd5,#9face6"
+    },
+    {
+        "title": "057 Dirty Beauty",
+        "image_url": "https://webgradients.com/public/webgradients_png/057 Dirty Beauty.png",
+        "css_code": "background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);",
+        "colors": [
+            "#6a85b6",
+            "#bac8e0"
+        ],
+        "colors_string": "#6a85b6,#bac8e0"
+    },
+    {
+        "title": "058 Great Whale",
+        "image_url": "https://webgradients.com/public/webgradients_png/058 Great Whale.png",
+        "css_code": "background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);",
+        "colors": [
+            "#a3bded",
+            "#6991c7"
+        ],
+        "colors_string": "#a3bded,#6991c7"
+    },
+    {
+        "title": "059 Teen Notebook",
+        "image_url": "https://webgradients.com/public/webgradients_png/059 Teen Notebook.png",
+        "css_code": "background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);",
+        "colors": [
+            "#9795f0",
+            "#fbc8d4"
+        ],
+        "colors_string": "#9795f0,#fbc8d4"
+    },
+    {
+        "title": "060 Polite Rumors",
+        "image_url": "https://webgradients.com/public/webgradients_png/060 Polite Rumors.png",
+        "css_code": "background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #8989ba 100%);",
+        "colors": [
+            "#a7a6cb",
+            "#8989ba"
+        ],
+        "colors_string": "#a7a6cb,#8989ba"
+    },
+    {
+        "title": "061 Sweet Period",
+        "image_url": "https://webgradients.com/public/webgradients_png/061 Sweet Period.png",
+        "css_code": "background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "062 Wide Matrix",
+        "image_url": "https://webgradients.com/public/webgradients_png/062 Wide Matrix.png",
+        "css_code": "background-image: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "063 Soft Cherish",
+        "image_url": "https://webgradients.com/public/webgradients_png/063 Soft Cherish.png",
+        "css_code": "background-image: linear-gradient(to top, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "064 Red Salvation",
+        "image_url": "https://webgradients.com/public/webgradients_png/064 Red Salvation.png",
+        "css_code": "background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);",
+        "colors": [
+            "#f43b47",
+            "#453a94"
+        ],
+        "colors_string": "#f43b47,#453a94"
+    },
+    {
+        "title": "065 Burning Spring",
+        "image_url": "https://webgradients.com/public/webgradients_png/065 Burning Spring.png",
+        "css_code": "background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "066 Night Party",
+        "image_url": "https://webgradients.com/public/webgradients_png/066 Night Party.png",
+        "css_code": "background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);",
+        "colors": [
+            "#0250c5",
+            "#d43f8d"
+        ],
+        "colors_string": "#0250c5,#d43f8d"
+    },
+    {
+        "title": "067 Sky Glider",
+        "image_url": "https://webgradients.com/public/webgradients_png/067 Sky Glider.png",
+        "css_code": "background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);",
+        "colors": [
+            "#88d3ce",
+            "#6e45e2"
+        ],
+        "colors_string": "#88d3ce,#6e45e2"
+    },
+    {
+        "title": "068 Heaven Peach",
+        "image_url": "https://webgradients.com/public/webgradients_png/068 Heaven Peach.png",
+        "css_code": "background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);",
+        "colors": [
+            "#d9afd9",
+            "#97d9e1"
+        ],
+        "colors_string": "#d9afd9,#97d9e1"
+    },
+    {
+        "title": "069 Purple Division",
+        "image_url": "https://webgradients.com/public/webgradients_png/069 Purple Division.png",
+        "css_code": "background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);",
+        "colors": [
+            "#7028e4",
+            "#e5b2ca"
+        ],
+        "colors_string": "#7028e4,#e5b2ca"
+    },
+    {
+        "title": "070 Aqua Splash",
+        "image_url": "https://webgradients.com/public/webgradients_png/070 Aqua Splash.png",
+        "css_code": "background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);",
+        "colors": [
+            "#13547a",
+            "#80d0c7"
+        ],
+        "colors_string": "#13547a,#80d0c7"
+    },
+    {
+        "title": "071 Above Clouds",
+        "image_url": "https://webgradients.com/public/webgradients_png/5) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradien.png",
+        "css_code": "background-image: linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%);\r\n background-blend-mode: normal, lighten, soft-light;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "072 Spiky Naga",
+        "image_url": "https://webgradients.com/public/webgradients_png/072 Spiky Naga.png",
+        "css_code": "background-image: linear-gradient(to top, #505285 0%, #585e92 12%, #65689f 25%, #7474b0 37%, #7e7ebb 50%, #8389c7 62%, #9795d4 75%, #a2a1dc 87%, #b5aee4 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "073 Love Kiss",
+        "image_url": "https://webgradients.com/public/webgradients_png/073 Love Kiss.png",
+        "css_code": "background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);",
+        "colors": [
+            "#ff0844",
+            "#ffb199"
+        ],
+        "colors_string": "#ff0844,#ffb199"
+    },
+    {
+        "title": "074 Sharp Glass",
+        "image_url": "https://webgradients.com/public/webgradients_png/074 Sharp Glass.png",
+        "css_code": "background: #C9CCD3;\r\n background-image: linear-gradient(-180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);\r\n background-blend-mode: lighten;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "075 Clean Mirror",
+        "image_url": "https://webgradients.com/public/webgradients_png/075 Clean Mirror.png",
+        "css_code": "background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);",
+        "colors": [
+            "#93a5cf",
+            "#e4efe9"
+        ],
+        "colors_string": "#93a5cf,#e4efe9"
+    },
+    {
+        "title": "076 Premium Dark",
+        "image_url": "https://webgradients.com/public/webgradients_png/076 Premium Dark.png",
+        "css_code": "background-image: linear-gradient(to right, #434343 0%, black 100%);",
+        "colors": [
+            "#434343",
+            "#000000"
+        ],
+        "colors_string": "#434343,#000000"
+    },
+    {
+        "title": "077 Cold Evening",
+        "image_url": "https://webgradients.com/public/webgradients_png/077 Cold Evening.png",
+        "css_code": "background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "078 Cochiti Lake",
+        "image_url": "https://webgradients.com/public/webgradients_png/078 Cochiti Lake.png",
+        "css_code": "background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);",
+        "colors": [
+            "#93a5cf",
+            "#e4efe9"
+        ],
+        "colors_string": "#93a5cf,#e4efe9"
+    },
+    {
+        "title": "079 Summer Games",
+        "image_url": "https://webgradients.com/public/webgradients_png/079 Summer Games.png",
+        "css_code": "background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);",
+        "colors": [
+            "#92fe9d",
+            "#00c9ff"
+        ],
+        "colors_string": "#92fe9d,#00c9ff"
+    },
+    {
+        "title": "080 Passionate Bed",
+        "image_url": "https://webgradients.com/public/webgradients_png/080 Passionate Bed.png",
+        "css_code": "background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);",
+        "colors": [
+            "#ff758c",
+            "#ff7eb3"
+        ],
+        "colors_string": "#ff758c,#ff7eb3"
+    },
+    {
+        "title": "081 Mountain Rock",
+        "image_url": "https://webgradients.com/public/webgradients_png/081 Mountain Rock.png",
+        "css_code": "background-image: linear-gradient(to right, #868f96 0%, #596164 100%);",
+        "colors": [
+            "#868f96",
+            "#596164"
+        ],
+        "colors_string": "#868f96,#596164"
+    },
+    {
+        "title": "082 Desert Hump",
+        "image_url": "https://webgradients.com/public/webgradients_png/082 Desert Hump.png",
+        "css_code": "background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);",
+        "colors": [
+            "#c79081",
+            "#dfa579"
+        ],
+        "colors_string": "#c79081,#dfa579"
+    },
+    {
+        "title": "083 Jungle Day",
+        "image_url": "https://webgradients.com/public/webgradients_png/083 Jungle Day.png",
+        "css_code": "background-image: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%);",
+        "colors": [
+            "#8baaaa",
+            "#ae8b9c"
+        ],
+        "colors_string": "#8baaaa,#ae8b9c"
+    },
+    {
+        "title": "084 Phoenix Start",
+        "image_url": "https://webgradients.com/public/webgradients_png/084 Phoenix Start.png",
+        "css_code": "background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);",
+        "colors": [
+            "#f83600",
+            "#f9d423"
+        ],
+        "colors_string": "#f83600,#f9d423"
+    },
+    {
+        "title": "085 October Silence",
+        "image_url": "https://webgradients.com/public/webgradients_png/085 October Silence.png",
+        "css_code": "background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);",
+        "colors": [
+            "#b721ff",
+            "#21d4fd"
+        ],
+        "colors_string": "#b721ff,#21d4fd"
+    },
+    {
+        "title": "086 Faraway River",
+        "image_url": "https://webgradients.com/public/webgradients_png/086 Faraway River.png",
+        "css_code": "background-image: linear-gradient(-20deg, #6e45e2 0%, #88d3ce 100%);",
+        "colors": [
+            "#6e45e2",
+            "#88d3ce"
+        ],
+        "colors_string": "#6e45e2,#88d3ce"
+    },
+    {
+        "title": "087 Alchemist Lab",
+        "image_url": "https://webgradients.com/public/webgradients_png/087 Alchemist Lab.png",
+        "css_code": "background-image: linear-gradient(-20deg, #d558c8 0%, #24d292 100%);",
+        "colors": [
+            "#d558c8",
+            "#24d292"
+        ],
+        "colors_string": "#d558c8,#24d292"
+    },
+    {
+        "title": "088 Over Sun",
+        "image_url": "https://webgradients.com/public/webgradients_png/088 Over Sun.png",
+        "css_code": "background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);",
+        "colors": [
+            "#abecd6",
+            "#fbed96"
+        ],
+        "colors_string": "#abecd6,#fbed96"
+    },
+    {
+        "title": "089 Premium White",
+        "image_url": "https://webgradients.com/public/webgradients_png/089 Premium White.png",
+        "css_code": "background-image: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "090 Mars Party",
+        "image_url": "https://webgradients.com/public/webgradients_png/090 Mars Party.png",
+        "css_code": "background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);",
+        "colors": [
+            "#5f72bd",
+            "#9b23ea"
+        ],
+        "colors_string": "#5f72bd,#9b23ea"
+    },
+    {
+        "title": "091 Eternal Constance",
+        "image_url": "https://webgradients.com/public/webgradients_png/091 Eternal Constance.png",
+        "css_code": "background-image: linear-gradient(to top, #09203f 0%, #537895 100%);",
+        "colors": [
+            "#09203f",
+            "#537895"
+        ],
+        "colors_string": "#09203f,#537895"
+    },
+    {
+        "title": "092 Japan Blush",
+        "image_url": "https://webgradients.com/public/webgradients_png/092 Japan Blush.png",
+        "css_code": "background-image: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);",
+        "colors": [
+            "#ddd6f3",
+            "#faaca8"
+        ],
+        "colors_string": "#ddd6f3,#faaca8"
+    },
+    {
+        "title": "093 Smiling Rain",
+        "image_url": "https://webgradients.com/public/webgradients_png/093 Smiling Rain.png",
+        "css_code": "background-image: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);",
+        "colors": [
+            "#dcb0ed",
+            "#99c99c"
+        ],
+        "colors_string": "#dcb0ed,#99c99c"
+    },
+    {
+        "title": "094 Cloudy Apple",
+        "image_url": "https://webgradients.com/public/webgradients_png/094 Cloudy Apple.png",
+        "css_code": "background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);",
+        "colors": [
+            "#f3e7e9",
+            "#e3eeff"
+        ],
+        "colors_string": "#f3e7e9,#e3eeff"
+    },
+    {
+        "title": "095 Big Mango",
+        "image_url": "https://webgradients.com/public/webgradients_png/095 Big Mango.png",
+        "css_code": "background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%);",
+        "colors": [
+            "#c71d6f",
+            "#d09693"
+        ],
+        "colors_string": "#c71d6f,#d09693"
+    },
+    {
+        "title": "096 Healthy Water",
+        "image_url": "https://webgradients.com/public/webgradients_png/096 Healthy Water.png",
+        "css_code": "background-image: linear-gradient(60deg, #96deda 0%, #50c9c3 100%);",
+        "colors": [
+            "#96deda",
+            "#50c9c3"
+        ],
+        "colors_string": "#96deda,#50c9c3"
+    },
+    {
+        "title": "097 Amour Amour",
+        "image_url": "https://webgradients.com/public/webgradients_png/097 Amour Amour.png",
+        "css_code": "background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);",
+        "colors": [
+            "#f77062",
+            "#fe5196"
+        ],
+        "colors_string": "#f77062,#fe5196"
+    },
+    {
+        "title": "098 Risky Concrete",
+        "image_url": "https://webgradients.com/public/webgradients_png/098 Risky Concrete.png",
+        "css_code": "background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "099 Strong Stick",
+        "image_url": "https://webgradients.com/public/webgradients_png/099 Strong Stick.png",
+        "css_code": "background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);",
+        "colors": [
+            "#a8caba",
+            "#5d4157"
+        ],
+        "colors_string": "#a8caba,#5d4157"
+    },
+    {
+        "title": "100 Vicious Stance",
+        "image_url": "https://webgradients.com/public/webgradients_png/100 Vicious Stance.png",
+        "css_code": "background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);",
+        "colors": [
+            "#29323c",
+            "#485563"
+        ],
+        "colors_string": "#29323c,#485563"
+    },
+    {
+        "title": "101 Palo Alto",
+        "image_url": "https://webgradients.com/public/webgradients_png/101 Palo Alto.png",
+        "css_code": "background-image: linear-gradient(-60deg, #16a085 0%, #f4d03f 100%);",
+        "colors": [
+            "#16a085",
+            "#f4d03f"
+        ],
+        "colors_string": "#16a085,#f4d03f"
+    },
+    {
+        "title": "102 Happy Memories",
+        "image_url": "https://webgradients.com/public/webgradients_png/102 Happy Memories.png",
+        "css_code": "background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);",
+        "colors": [
+            "#ff5858",
+            "#f09819"
+        ],
+        "colors_string": "#ff5858,#f09819"
+    },
+    {
+        "title": "103 Midnight Bloom",
+        "image_url": "https://webgradients.com/public/webgradients_png/103 Midnight Bloom.png",
+        "css_code": "background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);",
+        "colors": [
+            "#2b5876",
+            "#4e4376"
+        ],
+        "colors_string": "#2b5876,#4e4376"
+    },
+    {
+        "title": "104 Crystalline",
+        "image_url": "https://webgradients.com/public/webgradients_png/104 Crystalline.png",
+        "css_code": "background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);",
+        "colors": [
+            "#00cdac",
+            "#8ddad5"
+        ],
+        "colors_string": "#00cdac,#8ddad5"
+    },
+    {
+        "title": "105 Raccoon Back",
+        "image_url": "https://webgradients.com/public/webgradients_png/105 Raccoon Back.png",
+        "css_code": "background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);\r\n background-blend-mode: screen;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "106 Party Bliss",
+        "image_url": "https://webgradients.com/public/webgradients_png/106 Party Bliss.png",
+        "css_code": "background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);",
+        "colors": [
+            "#4481eb",
+            "#04befe"
+        ],
+        "colors_string": "#4481eb,#04befe"
+    },
+    {
+        "title": "107 Confident Cloud",
+        "image_url": "https://webgradients.com/public/webgradients_png/107 Confident Cloud.png",
+        "css_code": "background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);",
+        "colors": [
+            "#dad4ec",
+            "#f3e7e9"
+        ],
+        "colors_string": "#dad4ec,#f3e7e9"
+    },
+    {
+        "title": "108 Le Cocktail",
+        "image_url": "https://webgradients.com/public/webgradients_png/108 Le Cocktail.png",
+        "css_code": "background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);",
+        "colors": [
+            "#874da2",
+            "#c43a30"
+        ],
+        "colors_string": "#874da2,#c43a30"
+    },
+    {
+        "title": "109 River City",
+        "image_url": "https://webgradients.com/public/webgradients_png/109 River City.png",
+        "css_code": "background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);",
+        "colors": [
+            "#4481eb",
+            "#04befe"
+        ],
+        "colors_string": "#4481eb,#04befe"
+    },
+    {
+        "title": "110 Frozen Berry",
+        "image_url": "https://webgradients.com/public/webgradients_png/110 Frozen Berry.png",
+        "css_code": "background-image: linear-gradient(to top, #e8198b 0%, #c7eafd 100%);",
+        "colors": [
+            "#e8198b",
+            "#c7eafd"
+        ],
+        "colors_string": "#e8198b,#c7eafd"
+    },
+    {
+        "title": "111 Elegance",
+        "image_url": "https://webgradients.com/public/webgradients_png/111 Elegance.png",
+        "css_code": "background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);\r\n background-blend-mode: screen;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "112 Child Care",
+        "image_url": "https://webgradients.com/public/webgradients_png/112 Child Care.png",
+        "css_code": "background-image: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);",
+        "colors": [
+            "#f794a4",
+            "#fdd6bd"
+        ],
+        "colors_string": "#f794a4,#fdd6bd"
+    },
+    {
+        "title": "113 Flying Lemon",
+        "image_url": "https://webgradients.com/public/webgradients_png/113 Flying Lemon.png",
+        "css_code": "background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);",
+        "colors": [
+            "#64b3f4",
+            "#c2e59c"
+        ],
+        "colors_string": "#64b3f4,#c2e59c"
+    },
+    {
+        "title": "114 New Retrowave",
+        "image_url": "https://webgradients.com/public/webgradients_png/114 New Retrowave.png",
+        "css_code": "background-image: linear-gradient(to top, #3b41c5 0%, #a981bb 49%, #ffc8a9 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "115 Hidden Jaguar",
+        "image_url": "https://webgradients.com/public/webgradients_png/115 Hidden Jaguar.png",
+        "css_code": "background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);",
+        "colors": [
+            "#0fd850",
+            "#f9f047"
+        ],
+        "colors_string": "#0fd850,#f9f047"
+    },
+    {
+        "title": "116 Above The Sky",
+        "image_url": "https://webgradients.com/public/webgradients_png/116 Above The Sky.png",
+        "css_code": "background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "117 Nega",
+        "image_url": "https://webgradients.com/public/webgradients_png/117 Nega.png",
+        "css_code": "background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);",
+        "colors": [
+            "#ee9ca7",
+            "#ffdde1"
+        ],
+        "colors_string": "#ee9ca7,#ffdde1"
+    },
+    {
+        "title": "118 Dense Water",
+        "image_url": "https://webgradients.com/public/webgradients_png/118 Dense Water.png",
+        "css_code": "background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "119 Chemic Aqua",
+        "image_url": "https://webgradients.com/public/webgradients_png/119 Chemic Aqua.png",
+        "css_code": "background-color: #CDDCDC;\r\n background-image: radial-gradient(at 50% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), linear-gradient(to bottom, rgba(255,255,255,0.25) 0%, rgba(0,0,0,0.25) 100%);\r\n background-blend-mode: screen, overlay;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "120 Seashore",
+        "image_url": "https://webgradients.com/public/webgradients_png/120 Seashore.png",
+        "css_code": "background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);",
+        "colors": [
+            "#209cff",
+            "#68e0cf"
+        ],
+        "colors_string": "#209cff,#68e0cf"
+    },
+    {
+        "title": "121 Marble Wall",
+        "image_url": "https://webgradients.com/public/webgradients_png/121 Marble Wall.png",
+        "css_code": "background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);",
+        "colors": [
+            "#bdc2e8",
+            "#e6dee9"
+        ],
+        "colors_string": "#bdc2e8,#e6dee9"
+    },
+    {
+        "title": "122 Cheerful Caramel",
+        "image_url": "https://webgradients.com/public/webgradients_png/122 Cheerful Caramel.png",
+        "css_code": "background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);",
+        "colors": [
+            "#e6b980",
+            "#eacda3"
+        ],
+        "colors_string": "#e6b980,#eacda3"
+    },
+    {
+        "title": "123 Night Sky",
+        "image_url": "https://webgradients.com/public/webgradients_png/123 Night Sky.png",
+        "css_code": "background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);",
+        "colors": [
+            "#1e3c72",
+            "#2a5298"
+        ],
+        "colors_string": "#1e3c72,#2a5298"
+    },
+    {
+        "title": "124 Magic Lake",
+        "image_url": "https://webgradients.com/public/webgradients_png/124 Magic Lake.png",
+        "css_code": "background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "125 Young Grass",
+        "image_url": "https://webgradients.com/public/webgradients_png/125 Young Grass.png",
+        "css_code": "background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);",
+        "colors": [
+            "#9be15d",
+            "#00e3ae"
+        ],
+        "colors_string": "#9be15d,#00e3ae"
+    },
+    {
+        "title": "126 Colorful Peach",
+        "image_url": "https://webgradients.com/public/webgradients_png/126 Colorful Peach.png",
+        "css_code": "background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);",
+        "colors": [
+            "#ed6ea0",
+            "#ec8c69"
+        ],
+        "colors_string": "#ed6ea0,#ec8c69"
+    },
+    {
+        "title": "127 Gentle Care",
+        "image_url": "https://webgradients.com/public/webgradients_png/127 Gentle Care.png",
+        "css_code": "background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);",
+        "colors": [
+            "#ffc3a0",
+            "#ffafbd"
+        ],
+        "colors_string": "#ffc3a0,#ffafbd"
+    },
+    {
+        "title": "128 Plum Bath",
+        "image_url": "https://webgradients.com/public/webgradients_png/128 Plum Bath.png",
+        "css_code": "background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);",
+        "colors": [
+            "#cc208e",
+            "#6713d2"
+        ],
+        "colors_string": "#cc208e,#6713d2"
+    },
+    {
+        "title": "129 Happy Unicorn",
+        "image_url": "https://webgradients.com/public/webgradients_png/129 Happy Unicorn.png",
+        "css_code": "background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);",
+        "colors": [
+            "#b3ffab",
+            "#12fff7"
+        ],
+        "colors_string": "#b3ffab,#12fff7"
+    },
+    {
+        "title": "130 Full Metal",
+        "image_url": "https://webgradients.com/public/webgradients_png/130 Full Metal.png",
+        "css_code": "background: linear-gradient(to bottom, #D5DEE7 0%, #E8EBF2 50%, #E2E7ED 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 50%, rgba(255,255,255,0.02) 61%, rgba(0,0,0,0.02) 73%), linear-gradient(33deg, rgba(255,255,255,0.20) 0%, rgba(0,0,0,0.20) 100%);\r\n background-blend-mode: normal,color-burn;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "131 African Field",
+        "image_url": "https://webgradients.com/public/webgradients_png/131 African Field.png",
+        "css_code": "background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "132 Solid Stone",
+        "image_url": "https://webgradients.com/public/webgradients_png/132 Solid Stone.png",
+        "css_code": "background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);",
+        "colors": [
+            "#243949",
+            "#517fa4"
+        ],
+        "colors_string": "#243949,#517fa4"
+    },
+    {
+        "title": "133 Orange Juice",
+        "image_url": "https://webgradients.com/public/webgradients_png/133 Orange Juice.png",
+        "css_code": "background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);",
+        "colors": [
+            "#fc6076",
+            "#ff9a44"
+        ],
+        "colors_string": "#fc6076,#ff9a44"
+    },
+    {
+        "title": "134 Glass Water",
+        "image_url": "https://webgradients.com/public/webgradients_png/134 Glass Water.png",
+        "css_code": "background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);",
+        "colors": [
+            "#dfe9f3",
+            "#ffffff"
+        ],
+        "colors_string": "#dfe9f3,#ffffff"
+    },
+    {
+        "title": "135 Slick Carbon",
+        "image_url": "https://webgradients.com/public/webgradients_png/135 Slick Carbon.png",
+        "css_code": "background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);\r\n background-blend-mode: multiply;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "136 North Miracle",
+        "image_url": "https://webgradients.com/public/webgradients_png/136 North Miracle.png",
+        "css_code": "background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);",
+        "colors": [
+            "#00dbde",
+            "#fc00ff"
+        ],
+        "colors_string": "#00dbde,#fc00ff"
+    },
+    {
+        "title": "137 Fruit Blend",
+        "image_url": "https://webgradients.com/public/webgradients_png/137 Fruit Blend.png",
+        "css_code": "background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);",
+        "colors": [
+            "#f9d423",
+            "#ff4e50"
+        ],
+        "colors_string": "#f9d423,#ff4e50"
+    },
+    {
+        "title": "138 Millennium Pine",
+        "image_url": "https://webgradients.com/public/webgradients_png/138 Millennium Pine.png",
+        "css_code": "background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);",
+        "colors": [
+            "#50cc7f",
+            "#f5d100"
+        ],
+        "colors_string": "#50cc7f,#f5d100"
+    },
+    {
+        "title": "139 High Flight",
+        "image_url": "https://webgradients.com/public/webgradients_png/139 High Flight.png",
+        "css_code": "background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);",
+        "colors": [
+            "#0acffe",
+            "#495aff"
+        ],
+        "colors_string": "#0acffe,#495aff"
+    },
+    {
+        "title": "140 Mole Hall",
+        "image_url": "https://webgradients.com/public/webgradients_png/140 Mole Hall.png",
+        "css_code": "background-image: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);",
+        "colors": [
+            "#616161",
+            "#9bc5c3"
+        ],
+        "colors_string": "#616161,#9bc5c3"
+    },
+    {
+        "title": "141 Earl Gray",
+        "image_url": "https://webgradients.com/public/webgradients_png/141 Earl Gray.png",
+        "css_code": "background-color: #E4E4E1;\r\n background-image: radial-gradient(at top center, rgba(255,255,255,0.03) 0%, rgba(0,0,0,0.03) 100%), linear-gradient(to top, rgba(255,255,255,0.1) 0%, rgba(143,152,157,0.60) 100%);\r\n \tbackground-blend-mode: normal, multiply;",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "142 Space Shift",
+        "image_url": "https://webgradients.com/public/webgradients_png/142 Space Shift.png",
+        "css_code": "background-image: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "143 Forest Inei",
+        "image_url": "https://webgradients.com/public/webgradients_png/143 Forest Inei.png",
+        "css_code": "background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);",
+        "colors": [
+            "#df89b5",
+            "#bfd9fe"
+        ],
+        "colors_string": "#df89b5,#bfd9fe"
+    },
+    {
+        "title": "144 Royal Garden",
+        "image_url": "https://webgradients.com/public/webgradients_png/144 Royal Garden.png",
+        "css_code": "background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);",
+        "colors": [
+            "#ed6ea0",
+            "#ec8c69"
+        ],
+        "colors_string": "#ed6ea0,#ec8c69"
+    },
+    {
+        "title": "145 Rich Metal",
+        "image_url": "https://webgradients.com/public/webgradients_png/145 Rich Metal.png",
+        "css_code": "background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);",
+        "colors": [
+            "#d7d2cc",
+            "#304352"
+        ],
+        "colors_string": "#d7d2cc,#304352"
+    },
+    {
+        "title": "146 Juicy Cake",
+        "image_url": "https://webgradients.com/public/webgradients_png/146 Juicy Cake.png",
+        "css_code": "background-image: linear-gradient(to top, #e14fad 0%, #f9d423 100%);",
+        "colors": [
+            "#e14fad",
+            "#f9d423"
+        ],
+        "colors_string": "#e14fad,#f9d423"
+    },
+    {
+        "title": "147 Smart Indigo",
+        "image_url": "https://webgradients.com/public/webgradients_png/147 Smart Indigo.png",
+        "css_code": "background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);",
+        "colors": [
+            "#b224ef",
+            "#7579ff"
+        ],
+        "colors_string": "#b224ef,#7579ff"
+    },
+    {
+        "title": "148 Sand Strike",
+        "image_url": "https://webgradients.com/public/webgradients_png/148 Sand Strike.png",
+        "css_code": "background-image: linear-gradient(to right, #c1c161 0%, #c1c161 0%, #d4d4b1 100%);",
+        "colors": [
+            "#c1c161",
+            "#d4d4b1"
+        ],
+        "colors_string": "#c1c161,#d4d4b1"
+    },
+    {
+        "title": "149 Norse Beauty",
+        "image_url": "https://webgradients.com/public/webgradients_png/149 Norse Beauty.png",
+        "css_code": "background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);",
+        "colors": [
+            "#ec77ab",
+            "#7873f5"
+        ],
+        "colors_string": "#ec77ab,#7873f5"
+    },
+    {
+        "title": "150 Aqua Guidance",
+        "image_url": "https://webgradients.com/public/webgradients_png/150 Aqua Guidance.png",
+        "css_code": "background-image: linear-gradient(to top, #007adf 0%, #00ecbc 100%);",
+        "colors": [
+            "#007adf",
+            "#00ecbc"
+        ],
+        "colors_string": "#007adf,#00ecbc"
+    },
+    {
+        "title": "151 Sun Veggie",
+        "image_url": "https://webgradients.com/public/webgradients_png/151 Sun Veggie.png",
+        "css_code": "background-image: linear-gradient(-225deg, #20E2D7 0%, #F9FEA5 100%);",
+        "colors": [
+            "#20E2D7",
+            "#F9FEA5"
+        ],
+        "colors_string": "#20E2D7,#F9FEA5"
+    },
+    {
+        "title": "152 Sea Lord",
+        "image_url": "https://webgradients.com/public/webgradients_png/152 Sea Lord.png",
+        "css_code": "background-image: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "153 Black Sea",
+        "image_url": "https://webgradients.com/public/webgradients_png/153 Black Sea.png",
+        "css_code": "background-image: linear-gradient(-225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "154 Grass Shampoo",
+        "image_url": "https://webgradients.com/public/webgradients_png/154 Grass Shampoo.png",
+        "css_code": "background-image: linear-gradient(-225deg, #DFFFCD 0%, #90F9C4 48%, #39F3BB 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "155 Landing Aircraft",
+        "image_url": "https://webgradients.com/public/webgradients_png/155 Landing Aircraft.png",
+        "css_code": "background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "156 Witch Dance",
+        "image_url": "https://webgradients.com/public/webgradients_png/156 Witch Dance.png",
+        "css_code": "background-image: linear-gradient(-225deg, #A8BFFF 0%, #884D80 100%);",
+        "colors": [
+            "#A8BFFF",
+            "#884D80"
+        ],
+        "colors_string": "#A8BFFF,#884D80"
+    },
+    {
+        "title": "157 Sleepless Night",
+        "image_url": "https://webgradients.com/public/webgradients_png/157 Sleepless Night.png",
+        "css_code": "background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "158 Angel Care",
+        "image_url": "https://webgradients.com/public/webgradients_png/158 Angel Care.png",
+        "css_code": "background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "159 Crystal River",
+        "image_url": "https://webgradients.com/public/webgradients_png/159 Crystal River.png",
+        "css_code": "background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "160 Soft Lipstick",
+        "image_url": "https://webgradients.com/public/webgradients_png/160 Soft Lipstick.png",
+        "css_code": "background-image: linear-gradient(-225deg, #B6CEE8 0%, #F578DC 100%);",
+        "colors": [
+            "#B6CEE8",
+            "#F578DC"
+        ],
+        "colors_string": "#B6CEE8,#F578DC"
+    },
+    {
+        "title": "161 Salt Mountain",
+        "image_url": "https://webgradients.com/public/webgradients_png/161 Salt Mountain.png",
+        "css_code": "background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);",
+        "colors": [
+            "#FFFEFF",
+            "#D7FFFE"
+        ],
+        "colors_string": "#FFFEFF,#D7FFFE"
+    },
+    {
+        "title": "162 Perfect White",
+        "image_url": "https://webgradients.com/public/webgradients_png/162 Perfect White.png",
+        "css_code": "background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);",
+        "colors": [
+            "#E3FDF5",
+            "#FFE6FA"
+        ],
+        "colors_string": "#E3FDF5,#FFE6FA"
+    },
+    {
+        "title": "163 Fresh Oasis",
+        "image_url": "https://webgradients.com/public/webgradients_png/163 Fresh Oasis.png",
+        "css_code": "background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);",
+        "colors": [
+            "#7DE2FC",
+            "#B9B6E5"
+        ],
+        "colors_string": "#7DE2FC,#B9B6E5"
+    },
+    {
+        "title": "164 Strict November",
+        "image_url": "https://webgradients.com/public/webgradients_png/164 Strict November.png",
+        "css_code": "background-image: linear-gradient(-225deg, #CBBACC 0%, #2580B3 100%);",
+        "colors": [
+            "#CBBACC",
+            "#2580B3"
+        ],
+        "colors_string": "#CBBACC,#2580B3"
+    },
+    {
+        "title": "165 Morning Salad",
+        "image_url": "https://webgradients.com/public/webgradients_png/165 Morning Salad.png",
+        "css_code": "background-image: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);",
+        "colors": [
+            "#B7F8DB",
+            "#50A7C2"
+        ],
+        "colors_string": "#B7F8DB,#50A7C2"
+    },
+    {
+        "title": "166 Deep Relief",
+        "image_url": "https://webgradients.com/public/webgradients_png/166 Deep Relief.png",
+        "css_code": "background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "167 Sea Strike",
+        "image_url": "https://webgradients.com/public/webgradients_png/167 Sea Strike.png",
+        "css_code": "background-image: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "168 Night Call",
+        "image_url": "https://webgradients.com/public/webgradients_png/168 Night Call.png",
+        "css_code": "background-image: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "169 Supreme Sky",
+        "image_url": "https://webgradients.com/public/webgradients_png/169 Supreme Sky.png",
+        "css_code": "background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "170 Light Blue",
+        "image_url": "https://webgradients.com/public/webgradients_png/170 Light Blue.png",
+        "css_code": "background-image: linear-gradient(-225deg, #9EFBD3 0%, #57E9F2 48%, #45D4FB 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "171 Mind Crawl",
+        "image_url": "https://webgradients.com/public/webgradients_png/171 Mind Crawl.png",
+        "css_code": "background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "172 Lily Meadow",
+        "image_url": "https://webgradients.com/public/webgradients_png/172 Lily Meadow.png",
+        "css_code": "background-image: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);",
+        "colors": [
+            "#007adf",
+            "#00ecbc"
+        ],
+        "colors_string": "#007adf,#00ecbc"
+    },
+    {
+        "title": "173 Sugar Lollipop",
+        "image_url": "https://webgradients.com/public/webgradients_png/173 Sugar Lollipop.png",
+        "css_code": "background-image: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "174 Sweet Dessert",
+        "image_url": "https://webgradients.com/public/webgradients_png/174 Sweet Dessert.png",
+        "css_code": "background-image: linear-gradient(-225deg, #7742B2 0%, #F180FF 52%, #FD8BD9 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "175 Magic Ray",
+        "image_url": "https://webgradients.com/public/webgradients_png/175 Magic Ray.png",
+        "css_code": "background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "176 Teen Party",
+        "image_url": "https://webgradients.com/public/webgradients_png/176 Teen Party.png",
+        "css_code": "background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "177 Frozen Heat",
+        "image_url": "https://webgradients.com/public/webgradients_png/177 Frozen Heat.png",
+        "css_code": "background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "178 Gagarin View",
+        "image_url": "https://webgradients.com/public/webgradients_png/178 Gagarin View.png",
+        "css_code": "background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "179 Fabled Sunset",
+        "image_url": "https://webgradients.com/public/webgradients_png/179 Fabled Sunset.png",
+        "css_code": "background-image: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);",
+        "colors": [],
+        "colors_string": ""
+    },
+    {
+        "title": "180 Perfect Blue",
+        "image_url": "https://webgradients.com/public/webgradients_png/180 Perfect Blue.png",
+        "css_code": "background-image: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%);",
+        "colors": [],
+        "colors_string": ""
+    }
+]

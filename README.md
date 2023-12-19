@@ -19,3 +19,7 @@
 ## spider-huhe-huangli
 
 [聚合数据](https://www.juhe.cn)
+
+## spider-web-gradients
+
+[渐变色网站](https://webgradients.com)
