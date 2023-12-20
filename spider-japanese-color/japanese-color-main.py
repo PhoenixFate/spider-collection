@@ -55,7 +55,7 @@ def spider_japanese_color():
             print(json_result)
             item['color_index'] = json_result['index']
             item['cmyk'] = json_result['cmyk']
-            item['rgb'] = json_result['rgb']
+            item['hex'] = '#' + json_result['rgb']
             items.append(item)
     # 保存一份在本地文件
     save_colors_local(items)

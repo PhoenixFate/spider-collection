@@ -20,11 +20,11 @@ def save_items(items):
     # 使用 cursor() 方法创建一个游标对象 cursor
     cursor = conn.cursor()
     # 另一种插入数据的方式，通过字符串传入值
-    sql = "insert into japanese_color(color_name,color_key,color_index,cmyk,rgb) values(%s,%s,%s,%s,%s)"
+    sql = "insert into japanese_color(color_name,color_key,color_index,cmyk,hex) values(%s,%s,%s,%s,%s)"
     for item in items:
         print(item)
         try:
-            cursor.execute(sql, (item['color_name'], item['color_key'], item['color_index'], item['cmyk'], item['rgb']))
+            cursor.execute(sql, (item['color_name'], item['color_key'], item['color_index'], item['cmyk'], item['hex']))
         except Exception as e:
             print(e)
             return
