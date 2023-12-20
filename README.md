@@ -23,3 +23,7 @@
 ## spider-web-gradients
 
 [渐变色网站](https://webgradients.com)
+
+## spider-japanese-color
+
+[日本传统颜色网站](https://nipponcolors.com)

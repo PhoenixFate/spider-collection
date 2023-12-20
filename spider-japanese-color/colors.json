@@ -1,1 +1,1752 @@
-[]
+[
+    {
+        "color_name": "撫子",
+        "color_key": "NADESHIKO",
+        "color_index": "001",
+        "cmyk": "002043003000",
+        "rgb": "DC9FB4"
+    },
+    {
+        "color_name": "紅梅",
+        "color_key": "KOHBAI",
+        "color_index": "002",
+        "cmyk": "000073024000",
+        "rgb": "E16B8C"
+    },
+    {
+        "color_name": "蘇芳",
+        "color_key": "SUOH",
+        "color_index": "003",
+        "cmyk": "051093058010",
+        "rgb": "8E354A"
+    },
+    {
+        "color_name": "退紅",
+        "color_key": "TAIKOH",
+        "color_index": "004",
+        "cmyk": "000031009000",
+        "rgb": "F8C3CD"
+    },
+    {
+        "color_name": "一斥染",
+        "color_key": "IKKONZOME",
+        "color_index": "005",
+        "cmyk": "000048015000",
+        "rgb": "F4A7B9"
+    },
+    {
+        "color_name": "桑染",
+        "color_key": "KUWAZOME",
+        "color_index": "006",
+        "cmyk": "069086065035",
+        "rgb": "64363C"
+    },
+    {
+        "color_name": "桃",
+        "color_key": "MOMO",
+        "color_index": "007",
+        "cmyk": "000055019000",
+        "rgb": "F596AA"
+    },
+    {
+        "color_name": "苺",
+        "color_key": "ICHIGO",
+        "color_index": "008",
+        "cmyk": "002070038030",
+        "rgb": "B5495B"
+    },
+    {
+        "color_name": "薄紅",
+        "color_key": "USUBENI",
+        "color_index": "009",
+        "cmyk": "000064026000",
+        "rgb": "E87A90"
+    },
+    {
+        "color_name": "今様",
+        "color_key": "IMAYOH",
+        "color_index": "010",
+        "cmyk": "000075038020",
+        "rgb": "D05A6E"
+    },
+    {
+        "color_name": "中紅",
+        "color_key": "NAKABENI",
+        "color_index": "011",
+        "cmyk": "005083040000",
+        "rgb": "DB4D6D"
+    },
+    {
+        "color_name": "桜",
+        "color_key": "SAKURA",
+        "color_index": "012",
+        "cmyk": "000017006000",
+        "rgb": "FEDFE1"
+    },
+    {
+        "color_name": "梅鼠",
+        "color_key": "UMENEZUMI",
+        "color_index": "013",
+        "cmyk": "048059049000",
+        "rgb": "9E7A7A"
+    },
+    {
+        "color_name": "韓紅花",
+        "color_key": "KARAKURENAI",
+        "color_index": "014",
+        "cmyk": "015098061000",
+        "rgb": "D0104C"
+    },
+    {
+        "color_name": "燕脂",
+        "color_key": "ENJI",
+        "color_index": "015",
+        "cmyk": "042093068006",
+        "rgb": "9F353A"
+    },
+    {
+        "color_name": "紅",
+        "color_key": "KURENAI",
+        "color_index": "016",
+        "cmyk": "000100065010",
+        "rgb": "CB1B45"
+    },
+    {
+        "color_name": "鴇",
+        "color_key": "TOKI",
+        "color_index": "017",
+        "cmyk": "002045027000",
+        "rgb": "EEA9A9"
+    },
+    {
+        "color_name": "長春",
+        "color_key": "CYOHSYUN",
+        "color_index": "018",
+        "cmyk": "025070053000",
+        "rgb": "BF6766"
+    },
+    {
+        "color_name": "深緋",
+        "color_key": "KOKIAKE",
+        "color_index": "019",
+        "cmyk": "054075065014",
+        "rgb": "86473F"
+    },
+    {
+        "color_name": "桜鼠",
+        "color_key": "SAKURANEZUMI",
+        "color_index": "020",
+        "cmyk": "034046039000",
+        "rgb": "B19693"
+    },
+    {
+        "color_name": "甚三紅",
+        "color_key": "JINZAMOMI",
+        "color_index": "021",
+        "cmyk": "000065046000",
+        "rgb": "EB7A77"
+    },
+    {
+        "color_name": "小豆",
+        "color_key": "AZUKI",
+        "color_index": "022",
+        "cmyk": "048078066010",
+        "rgb": "954A45"
+    },
+    {
+        "color_name": "蘇芳香",
+        "color_key": "SUOHKOH",
+        "color_index": "023",
+        "cmyk": "042070058001",
+        "rgb": "A96360"
+    },
+    {
+        "color_name": "赤紅",
+        "color_key": "AKABENI",
+        "color_index": "024",
+        "cmyk": "015085068000",
+        "rgb": "CB4042"
+    },
+    {
+        "color_name": "真朱",
+        "color_key": "SHINSYU",
+        "color_index": "025",
+        "cmyk": "035085070002",
+        "rgb": "AB3B3A"
+    },
+    {
+        "color_name": "灰桜",
+        "color_key": "HAIZAKURA",
+        "color_index": "026",
+        "cmyk": "002012012010",
+        "rgb": "D7C4BB"
+    },
+    {
+        "color_name": "栗梅",
+        "color_key": "KURIUME",
+        "color_index": "027",
+        "cmyk": "050078068013",
+        "rgb": "904840"
+    },
+    {
+        "color_name": "海老茶",
+        "color_key": "EBICHA",
+        "color_index": "028",
+        "cmyk": "055077068027",
+        "rgb": "734338"
+    },
+    {
+        "color_name": "銀朱",
+        "color_key": "GINSYU",
+        "color_index": "029",
+        "cmyk": "016086070000",
+        "rgb": "C73E3A"
+    },
+    {
+        "color_name": "黒鳶",
+        "color_key": "KUROTOBI",
+        "color_index": "030",
+        "cmyk": "071074069041",
+        "rgb": "554236"
+    },
+    {
+        "color_name": "紅鳶",
+        "color_key": "BENITOBI",
+        "color_index": "031",
+        "cmyk": "045082072011",
+        "rgb": "994639"
+    },
+    {
+        "color_name": "曙",
+        "color_key": "AKEBONO",
+        "color_index": "032",
+        "cmyk": "000057047000",
+        "rgb": "F19483"
+    },
+    {
+        "color_name": "紅樺",
+        "color_key": "BENIKABA",
+        "color_index": "033",
+        "cmyk": "035087079001",
+        "rgb": "B54434"
+    },
+    {
+        "color_name": "水がき",
+        "color_key": "MIZUGAKI",
+        "color_index": "034",
+        "cmyk": "030054046000",
+        "rgb": "B9887D"
+    },
+    {
+        "color_name": "珊瑚朱",
+        "color_key": "SANGOSYU",
+        "color_index": "035",
+        "cmyk": "000065058000",
+        "rgb": "F17C67"
+    },
+    {
+        "color_name": "紅檜皮",
+        "color_key": "BENIHIWADA",
+        "color_index": "036",
+        "cmyk": "052074070018",
+        "rgb": "884C3A"
+    },
+    {
+        "color_name": "猩猩緋",
+        "color_key": "SYOJYOHI",
+        "color_index": "037",
+        "cmyk": "000089079000",
+        "rgb": "E83015"
+    },
+    {
+        "color_name": "鉛丹",
+        "color_key": "ENTAN",
+        "color_index": "038",
+        "cmyk": "000072063007",
+        "rgb": "D75455"
+    },
+    {
+        "color_name": "芝翫茶",
+        "color_key": "SHIKANCHA",
+        "color_index": "039",
+        "cmyk": "037072068000",
+        "rgb": "B55D4C"
+    },
+    {
+        "color_name": "檜皮",
+        "color_key": "HIWADA",
+        "color_index": "040",
+        "cmyk": "049073070018",
+        "rgb": "854836"
+    },
+    {
+        "color_name": "柿渋",
+        "color_key": "KAKISHIBU",
+        "color_index": "041",
+        "cmyk": "043072071004",
+        "rgb": "A35E47"
+    },
+    {
+        "color_name": "緋",
+        "color_key": "AKE",
+        "color_index": "042",
+        "cmyk": "017079074000",
+        "rgb": "CC543A"
+    },
+    {
+        "color_name": "鳶",
+        "color_key": "TOBI",
+        "color_index": "043",
+        "cmyk": "058073070026",
+        "rgb": "724832"
+    },
+    {
+        "color_name": "紅緋",
+        "color_key": "BENIHI",
+        "color_index": "044",
+        "cmyk": "000075074000",
+        "rgb": "F75C2F"
+    },
+    {
+        "color_name": "栗皮茶",
+        "color_key": "KURIKAWACHA",
+        "color_index": "045",
+        "cmyk": "058074072030",
+        "rgb": "6A4028"
+    },
+    {
+        "color_name": "弁柄",
+        "color_key": "BENGARA",
+        "color_index": "046",
+        "cmyk": "044074075012",
+        "rgb": "9A5034"
+    },
+    {
+        "color_name": "照柿",
+        "color_key": "TERIGAKI",
+        "color_index": "047",
+        "cmyk": "024072072000",
+        "rgb": "C46243"
+    },
+    {
+        "color_name": "江戸茶",
+        "color_key": "EDOCHA",
+        "color_index": "048",
+        "cmyk": "038070071003",
+        "rgb": "AF5F3C"
+    },
+    {
+        "color_name": "洗朱",
+        "color_key": "ARAISYU",
+        "color_index": "049",
+        "cmyk": "000054056000",
+        "rgb": "FB966E"
+    },
+    {
+        "color_name": "百塩茶",
+        "color_key": "MOMOSHIOCHA",
+        "color_index": "050",
+        "cmyk": "061070068025",
+        "rgb": "724938"
+    },
+    {
+        "color_name": "唐茶",
+        "color_key": "KARACHA",
+        "color_index": "051",
+        "cmyk": "038064065000",
+        "rgb": "B47157"
+    },
+    {
+        "color_name": "ときがら茶",
+        "color_key": "TOKIGARACHA",
+        "color_index": "052",
+        "cmyk": "010055057000",
+        "rgb": "DB8E71"
+    },
+    {
+        "color_name": "黄丹",
+        "color_key": "OHNI",
+        "color_index": "053",
+        "cmyk": "000072090000",
+        "rgb": "F05E1C"
+    },
+    {
+        "color_name": "纁",
+        "color_key": "SOHI",
+        "color_index": "054",
+        "cmyk": "000065073000",
+        "rgb": "ED784A"
+    },
+    {
+        "color_name": "遠州茶",
+        "color_key": "ENSYUCHA",
+        "color_index": "055",
+        "cmyk": "021064067000",
+        "rgb": "CA7853"
+    },
+    {
+        "color_name": "樺茶",
+        "color_key": "KABACHA",
+        "color_index": "056",
+        "cmyk": "036072076002",
+        "rgb": "B35C37"
+    },
+    {
+        "color_name": "焦茶",
+        "color_key": "KOGECHA",
+        "color_index": "057",
+        "cmyk": "068073071040",
+        "rgb": "563F2E"
+    },
+    {
+        "color_name": "赤香",
+        "color_key": "AKAKOH",
+        "color_index": "058",
+        "cmyk": "005055060000",
+        "rgb": "E3916E"
+    },
+    {
+        "color_name": "雀茶",
+        "color_key": "SUZUMECHA",
+        "color_index": "059",
+        "cmyk": "052069073015",
+        "rgb": "8F5A3C"
+    },
+    {
+        "color_name": "宍",
+        "color_key": "SHISHI",
+        "color_index": "060",
+        "cmyk": "000047050000",
+        "rgb": "F0A986"
+    },
+    {
+        "color_name": "宗伝唐茶",
+        "color_key": "SODENKARACHA",
+        "color_index": "061",
+        "cmyk": "048066070006",
+        "rgb": "A0674B"
+    },
+    {
+        "color_name": "樺",
+        "color_key": "KABA",
+        "color_index": "062",
+        "cmyk": "026070078000",
+        "rgb": "C1693C"
+    },
+    {
+        "color_name": "深支子",
+        "color_key": "KOKIKUCHINASHI",
+        "color_index": "063",
+        "cmyk": "000053065000",
+        "rgb": "FB9966"
+    },
+    {
+        "color_name": "胡桃",
+        "color_key": "KURUMI",
+        "color_index": "064",
+        "cmyk": "051056057001",
+        "rgb": "947A6D"
+    },
+    {
+        "color_name": "代赭",
+        "color_key": "TAISYA",
+        "color_index": "065",
+        "cmyk": "038067082003",
+        "rgb": "A36336"
+    },
+    {
+        "color_name": "洗柿",
+        "color_key": "ARAIGAKI",
+        "color_index": "066",
+        "cmyk": "000053067000",
+        "rgb": "E79460"
+    },
+    {
+        "color_name": "黄櫨染",
+        "color_key": "KOHROZEN",
+        "color_index": "067",
+        "cmyk": "055068078023",
+        "rgb": "7D532C"
+    },
+    {
+        "color_name": "赤朽葉",
+        "color_key": "AKAKUCHIBA",
+        "color_index": "068",
+        "cmyk": "005052070014",
+        "rgb": "C78550"
+    },
+    {
+        "color_name": "礪茶",
+        "color_key": "TONOCHA",
+        "color_index": "069",
+        "cmyk": "048066079007",
+        "rgb": "985F2A"
+    },
+    {
+        "color_name": "赤白橡",
+        "color_key": "AKASHIROTSURUBAMI",
+        "color_index": "070",
+        "cmyk": "006042055000",
+        "rgb": "E1A679"
+    },
+    {
+        "color_name": "煎茶",
+        "color_key": "SENCHA",
+        "color_index": "071",
+        "cmyk": "055066075014",
+        "rgb": "855B32"
+    },
+    {
+        "color_name": "萱草",
+        "color_key": "KANZO",
+        "color_index": "072",
+        "cmyk": "000049072000",
+        "rgb": "FC9F4D"
+    },
+    {
+        "color_name": "洒落柿",
+        "color_key": "SHAREGAKI",
+        "color_index": "073",
+        "cmyk": "000036053000",
+        "rgb": "FFBA84"
+    },
+    {
+        "color_name": "紅鬱金",
+        "color_key": "BENIUKON",
+        "color_index": "074",
+        "cmyk": "000052080000",
+        "rgb": "E98B2A"
+    },
+    {
+        "color_name": "梅染",
+        "color_key": "UMEZOME",
+        "color_index": "075",
+        "cmyk": "003045062000",
+        "rgb": "E9A368"
+    },
+    {
+        "color_name": "枇杷茶",
+        "color_key": "BIWACHA",
+        "color_index": "076",
+        "cmyk": "035058075000",
+        "rgb": "B17844"
+    },
+    {
+        "color_name": "丁子茶",
+        "color_key": "CHOJICHA",
+        "color_index": "077",
+        "cmyk": "050061076009",
+        "rgb": "96632E"
+    },
+    {
+        "color_name": "憲法染",
+        "color_key": "KENPOHZOME",
+        "color_index": "078",
+        "cmyk": "076071073047",
+        "rgb": "43341B"
+    },
+    {
+        "color_name": "琥珀",
+        "color_key": "KOHAKU",
+        "color_index": "079",
+        "cmyk": "020058085000",
+        "rgb": "CA7A2C"
+    },
+    {
+        "color_name": "薄柿",
+        "color_key": "USUGAKI",
+        "color_index": "080",
+        "cmyk": "000034052000",
+        "rgb": "ECB88A"
+    },
+    {
+        "color_name": "伽羅",
+        "color_key": "KYARA",
+        "color_index": "081",
+        "cmyk": "058062072016",
+        "rgb": "78552B"
+    },
+    {
+        "color_name": "丁子染",
+        "color_key": "CHOJIZOME",
+        "color_index": "082",
+        "cmyk": "036057079000",
+        "rgb": "B07736"
+    },
+    {
+        "color_name": "柴染",
+        "color_key": "FUSHIZOME",
+        "color_index": "083",
+        "cmyk": "050056071005",
+        "rgb": "967249"
+    },
+    {
+        "color_name": "朽葉",
+        "color_key": "KUCHIBA",
+        "color_index": "084",
+        "cmyk": "007049080000",
+        "rgb": "E2943B"
+    },
+    {
+        "color_name": "金茶",
+        "color_key": "KINCHA",
+        "color_index": "085",
+        "cmyk": "020056089000",
+        "rgb": "C7802D"
+    },
+    {
+        "color_name": "狐",
+        "color_key": "KITSUNE",
+        "color_index": "086",
+        "cmyk": "046057080004",
+        "rgb": "9B6E23"
+    },
+    {
+        "color_name": "煤竹",
+        "color_key": "SUSUTAKE",
+        "color_index": "087",
+        "cmyk": "062063073021",
+        "rgb": "6E552F"
+    },
+    {
+        "color_name": "薄香",
+        "color_key": "USUKOH",
+        "color_index": "088",
+        "cmyk": "000034060000",
+        "rgb": "EBB471"
+    },
+    {
+        "color_name": "砥粉",
+        "color_key": "TONOKO",
+        "color_index": "089",
+        "cmyk": "005020038015",
+        "rgb": "D7B98E"
+    },
+    {
+        "color_name": "銀煤竹",
+        "color_key": "GINSUSUTAKE",
+        "color_index": "090",
+        "cmyk": "054058076010",
+        "rgb": "82663A"
+    },
+    {
+        "color_name": "黄土",
+        "color_key": "OHDO",
+        "color_index": "091",
+        "cmyk": "031045066000",
+        "rgb": "B68E55"
+    },
+    {
+        "color_name": "白茶",
+        "color_key": "SHIRACHA",
+        "color_index": "092",
+        "cmyk": "032040057000",
+        "rgb": "BC9F77"
+    },
+    {
+        "color_name": "媚茶",
+        "color_key": "KOBICHA",
+        "color_index": "093",
+        "cmyk": "058059078014",
+        "rgb": "876633"
+    },
+    {
+        "color_name": "黄唐茶",
+        "color_key": "KIGARACHA",
+        "color_index": "094",
+        "cmyk": "028048083000",
+        "rgb": "C18A26"
+    },
+    {
+        "color_name": "山吹",
+        "color_key": "YAMABUKI",
+        "color_index": "095",
+        "cmyk": "000037087000",
+        "rgb": "FFB11B"
+    },
+    {
+        "color_name": "山吹茶",
+        "color_key": "YAMABUKICHA",
+        "color_index": "096",
+        "cmyk": "017044089000",
+        "rgb": "D19826"
+    },
+    {
+        "color_name": "櫨染",
+        "color_key": "HAJIZOME",
+        "color_index": "097",
+        "cmyk": "008040083000",
+        "rgb": "DDA52D"
+    },
+    {
+        "color_name": "桑茶",
+        "color_key": "KUWACHA",
+        "color_index": "098",
+        "cmyk": "025044083000",
+        "rgb": "C99833"
+    },
+    {
+        "color_name": "玉子",
+        "color_key": "TAMAGO",
+        "color_index": "099",
+        "cmyk": "000029074000",
+        "rgb": "F9BF45"
+    },
+    {
+        "color_name": "白橡",
+        "color_key": "SHIROTSURUBAMI",
+        "color_index": "100",
+        "cmyk": "016030060000",
+        "rgb": "DCB879"
+    },
+    {
+        "color_name": "黄橡",
+        "color_key": "KITSURUBAMI",
+        "color_index": "101",
+        "cmyk": "031044077000",
+        "rgb": "BA9132"
+    },
+    {
+        "color_name": "玉蜀黍",
+        "color_key": "TAMAMOROKOSHI",
+        "color_index": "102",
+        "cmyk": "004029071000",
+        "rgb": "E8B647"
+    },
+    {
+        "color_name": "花葉",
+        "color_key": "HANABA",
+        "color_index": "103",
+        "cmyk": "000025072000",
+        "rgb": "F7C242"
+    },
+    {
+        "color_name": "生壁",
+        "color_key": "NAMAKABE",
+        "color_index": "104",
+        "cmyk": "058056070008",
+        "rgb": "7D6C46"
+    },
+    {
+        "color_name": "鳥の子",
+        "color_key": "TORINOKO",
+        "color_index": "105",
+        "cmyk": "014020039000",
+        "rgb": "DAC9A6"
+    },
+    {
+        "color_name": "浅黄",
+        "color_key": "USUKI",
+        "color_index": "106",
+        "cmyk": "000017053000",
+        "rgb": "FAD689"
+    },
+    {
+        "color_name": "黄朽葉",
+        "color_key": "KIKUCHIBA",
+        "color_index": "107",
+        "cmyk": "014033075000",
+        "rgb": "D9AB42"
+    },
+    {
+        "color_name": "梔子",
+        "color_key": "KUCHINASHI",
+        "color_index": "108",
+        "cmyk": "000025070000",
+        "rgb": "F6C555"
+    },
+    {
+        "color_name": "籐黄",
+        "color_key": "TOHOH",
+        "color_index": "109",
+        "cmyk": "000025086000",
+        "rgb": "FFC408"
+    },
+    {
+        "color_name": "鬱金",
+        "color_key": "UKON",
+        "color_index": "110",
+        "cmyk": "003029088000",
+        "rgb": "EFBB24"
+    },
+    {
+        "color_name": "芥子",
+        "color_key": "KARASHI",
+        "color_index": "111",
+        "cmyk": "000016070027",
+        "rgb": "CAAD5F"
+    },
+    {
+        "color_name": "肥後煤竹",
+        "color_key": "HIGOSUSUTAKE",
+        "color_index": "112",
+        "cmyk": "055053082007",
+        "rgb": "8D742A"
+    },
+    {
+        "color_name": "利休白茶",
+        "color_key": "RIKYUSHIRACHA",
+        "color_index": "113",
+        "cmyk": "036033054000",
+        "rgb": "B4A582"
+    },
+    {
+        "color_name": "灰汁",
+        "color_key": "AKU",
+        "color_index": "114",
+        "cmyk": "058051060001",
+        "rgb": "877F6C"
+    },
+    {
+        "color_name": "利休茶",
+        "color_key": "RIKYUCHA",
+        "color_index": "115",
+        "cmyk": "057050070003",
+        "rgb": "897D55"
+    },
+    {
+        "color_name": "路考茶",
+        "color_key": "ROKOHCHA",
+        "color_index": "116",
+        "cmyk": "064057073010",
+        "rgb": "74673E"
+    },
+    {
+        "color_name": "菜種油",
+        "color_key": "NATANEYU",
+        "color_index": "117",
+        "cmyk": "046042084000",
+        "rgb": "A28C37"
+    },
+    {
+        "color_name": "鶯茶",
+        "color_key": "UGUISUCHA",
+        "color_index": "118",
+        "cmyk": "064056078016",
+        "rgb": "6C6024"
+    },
+    {
+        "color_name": "黄海松茶",
+        "color_key": "KIMIRUCHA",
+        "color_index": "119",
+        "cmyk": "057048078006",
+        "rgb": "867835"
+    },
+    {
+        "color_name": "海松茶",
+        "color_key": "MIRUCHA",
+        "color_index": "120",
+        "cmyk": "068059075022",
+        "rgb": "62592C"
+    },
+    {
+        "color_name": "刈安",
+        "color_key": "KARIYASU",
+        "color_index": "121",
+        "cmyk": "007015074000",
+        "rgb": "E9CD4C"
+    },
+    {
+        "color_name": "菜の花",
+        "color_key": "NANOHANA",
+        "color_index": "122",
+        "cmyk": "002011075000",
+        "rgb": "F7D94C"
+    },
+    {
+        "color_name": "黄蘗",
+        "color_key": "KIHADA",
+        "color_index": "123",
+        "cmyk": "000005073000",
+        "rgb": "FBE251"
+    },
+    {
+        "color_name": "蒸栗",
+        "color_key": "MUSHIKURI",
+        "color_index": "124",
+        "cmyk": "016015052000",
+        "rgb": "D9CD90"
+    },
+    {
+        "color_name": "青朽葉",
+        "color_key": "AOKUCHIBA",
+        "color_index": "125",
+        "cmyk": "038031076000",
+        "rgb": "ADA142"
+    },
+    {
+        "color_name": "女郎花",
+        "color_key": "OMINAESHI",
+        "color_index": "126",
+        "cmyk": "016009082000",
+        "rgb": "DDD23B"
+    },
+    {
+        "color_name": "鶸茶",
+        "color_key": "HIWACHA",
+        "color_index": "127",
+        "cmyk": "045033076000",
+        "rgb": "A5A051"
+    },
+    {
+        "color_name": "鶸",
+        "color_key": "HIWA",
+        "color_index": "128",
+        "cmyk": "032015085000",
+        "rgb": "BEC23F"
+    },
+    {
+        "color_name": "鶯",
+        "color_key": "UGUISU",
+        "color_index": "129",
+        "cmyk": "067054084014",
+        "rgb": "6C6A2D"
+    },
+    {
+        "color_name": "柳茶",
+        "color_key": "YANAGICHA",
+        "color_index": "130",
+        "cmyk": "052037073000",
+        "rgb": "939650"
+    },
+    {
+        "color_name": "苔",
+        "color_key": "KOKE",
+        "color_index": "131",
+        "cmyk": "062041083002",
+        "rgb": "838A2D"
+    },
+    {
+        "color_name": "麹塵",
+        "color_key": "KIKUJIN",
+        "color_index": "132",
+        "cmyk": "037023063000",
+        "rgb": "B1B479"
+    },
+    {
+        "color_name": "璃寛茶",
+        "color_key": "RIKANCHA",
+        "color_index": "133",
+        "cmyk": "072058073019",
+        "rgb": "616138"
+    },
+    {
+        "color_name": "藍媚茶",
+        "color_key": "AIKOBICHA",
+        "color_index": "134",
+        "cmyk": "076061074030",
+        "rgb": "4B4E2A"
+    },
+    {
+        "color_name": "海松",
+        "color_key": "MIRU",
+        "color_index": "135",
+        "cmyk": "072056078020",
+        "rgb": "5B622E"
+    },
+    {
+        "color_name": "千歳茶",
+        "color_key": "SENSAICHA",
+        "color_index": "136",
+        "cmyk": "077061070030",
+        "rgb": "4D5139"
+    },
+    {
+        "color_name": "梅幸茶",
+        "color_key": "BAIKOCHA",
+        "color_index": "137",
+        "cmyk": "057038063000",
+        "rgb": "89916B"
+    },
+    {
+        "color_name": "鶸萌黄",
+        "color_key": "HIWAMOEGI",
+        "color_index": "138",
+        "cmyk": "056013077000",
+        "rgb": "90B44B"
+    },
+    {
+        "color_name": "柳染",
+        "color_key": "YANAGIZOME",
+        "color_index": "139",
+        "cmyk": "056024065000",
+        "rgb": "91AD70"
+    },
+    {
+        "color_name": "裏柳",
+        "color_key": "URAYANAGI",
+        "color_index": "140",
+        "cmyk": "036010045000",
+        "rgb": "B5CAA0"
+    },
+    {
+        "color_name": "岩井茶",
+        "color_key": "IWAICHA",
+        "color_index": "141",
+        "cmyk": "069052063007",
+        "rgb": "646A58"
+    },
+    {
+        "color_name": "萌黄",
+        "color_key": "MOEGI",
+        "color_index": "142",
+        "cmyk": "070023086000",
+        "rgb": "7BA23F"
+    },
+    {
+        "color_name": "苗",
+        "color_key": "NAE",
+        "color_index": "143",
+        "cmyk": "057001072000",
+        "rgb": "86C166"
+    },
+    {
+        "color_name": "柳煤竹",
+        "color_key": "YANAGISUSUTAKE",
+        "color_index": "144",
+        "cmyk": "076057070017",
+        "rgb": "4A593D"
+    },
+    {
+        "color_name": "松葉",
+        "color_key": "MATSUBA",
+        "color_index": "145",
+        "cmyk": "080055079020",
+        "rgb": "42602D"
+    },
+    {
+        "color_name": "青丹",
+        "color_key": "AONI",
+        "color_index": "146",
+        "cmyk": "076051075012",
+        "rgb": "516E41"
+    },
+    {
+        "color_name": "薄青",
+        "color_key": "USUAO",
+        "color_index": "147",
+        "cmyk": "057019052000",
+        "rgb": "91B493"
+    },
+    {
+        "color_name": "柳鼠",
+        "color_key": "YANAGINEZUMI",
+        "color_index": "148",
+        "cmyk": "061041053000",
+        "rgb": "808F7C"
+    },
+    {
+        "color_name": "常磐",
+        "color_key": "TOKIWA",
+        "color_index": "149",
+        "cmyk": "082000078040",
+        "rgb": "1B813E"
+    },
+    {
+        "color_name": "若竹",
+        "color_key": "WAKATAKE",
+        "color_index": "150",
+        "cmyk": "068013059000",
+        "rgb": "5DAC81"
+    },
+    {
+        "color_name": "千歳緑",
+        "color_key": "CHITOSEMIDORI",
+        "color_index": "151",
+        "cmyk": "083055069022",
+        "rgb": "36563C"
+    },
+    {
+        "color_name": "緑",
+        "color_key": "MIDORI",
+        "color_index": "152",
+        "cmyk": "086036070000",
+        "rgb": "227D51"
+    },
+    {
+        "color_name": "白緑",
+        "color_key": "BYAKUROKU",
+        "color_index": "153",
+        "cmyk": "044000037000",
+        "rgb": "A8D8B9"
+    },
+    {
+        "color_name": "老竹",
+        "color_key": "OITAKE",
+        "color_index": "154",
+        "cmyk": "071046060002",
+        "rgb": "6A8372"
+    },
+    {
+        "color_name": "木賊",
+        "color_key": "TOKUSA",
+        "color_index": "155",
+        "cmyk": "086046070008",
+        "rgb": "2D6D4B"
+    },
+    {
+        "color_name": "御納戸茶",
+        "color_key": "ONANDOCHA",
+        "color_index": "156",
+        "cmyk": "081060068022",
+        "rgb": "465D4C"
+    },
+    {
+        "color_name": "緑青",
+        "color_key": "ROKUSYOH",
+        "color_index": "157",
+        "cmyk": "083023063000",
+        "rgb": "24936E"
+    },
+    {
+        "color_name": "錆青磁",
+        "color_key": "SABISEIJI",
+        "color_index": "158",
+        "cmyk": "058030045000",
+        "rgb": "86A697"
+    },
+    {
+        "color_name": "青竹",
+        "color_key": "AOTAKE",
+        "color_index": "159",
+        "cmyk": "092028067000",
+        "rgb": "00896C"
+    },
+    {
+        "color_name": "ビロード",
+        "color_key": "VELUDO",
+        "color_index": "160",
+        "cmyk": "093054071020",
+        "rgb": "096148"
+    },
+    {
+        "color_name": "虫襖",
+        "color_key": "MUSHIAO",
+        "color_index": "161",
+        "cmyk": "089055067017",
+        "rgb": "20604F"
+    },
+    {
+        "color_name": "藍海松茶",
+        "color_key": "AIMIRUCHA",
+        "color_index": "162",
+        "cmyk": "089060067030",
+        "rgb": "0F4C3A"
+    },
+    {
+        "color_name": "沈香茶",
+        "color_key": "TONOCHA2",
+        "color_index": "163",
+        "cmyk": "077050057004",
+        "rgb": "4F726C"
+    },
+    {
+        "color_name": "青緑",
+        "color_key": "AOMIDORI",
+        "color_index": "164",
+        "cmyk": "088000053000",
+        "rgb": "00AA90"
+    },
+    {
+        "color_name": "青磁",
+        "color_key": "SEIJI",
+        "color_index": "165",
+        "cmyk": "061014034000",
+        "rgb": "69B0AC"
+    },
+    {
+        "color_name": "鉄",
+        "color_key": "TETSU",
+        "color_index": "166",
+        "cmyk": "090063066030",
+        "rgb": "26453D"
+    },
+    {
+        "color_name": "水浅葱",
+        "color_key": "MIZUASAGI",
+        "color_index": "167",
+        "cmyk": "068010033000",
+        "rgb": "66BAB7"
+    },
+    {
+        "color_name": "青碧",
+        "color_key": "SEIHEKI",
+        "color_index": "168",
+        "cmyk": "085035050000",
+        "rgb": "268785"
+    },
+    {
+        "color_name": "錆鉄御納戸",
+        "color_key": "SABITETSUONANDO",
+        "color_index": "169",
+        "cmyk": "083059060013",
+        "rgb": "405B55"
+    },
+    {
+        "color_name": "高麗納戸",
+        "color_key": "KORAINANDO",
+        "color_index": "170",
+        "cmyk": "088058061015",
+        "rgb": "305A56"
+    },
+    {
+        "color_name": "白群",
+        "color_key": "BYAKUGUN",
+        "color_index": "171",
+        "cmyk": "052000020000",
+        "rgb": "78C2C4"
+    },
+    {
+        "color_name": "御召茶",
+        "color_key": "OMESHICHA",
+        "color_index": "172",
+        "cmyk": "087054054005",
+        "rgb": "376B6D"
+    },
+    {
+        "color_name": "瓶覗",
+        "color_key": "KAMENOZOKI",
+        "color_index": "173",
+        "cmyk": "042000011000",
+        "rgb": "A5DEE4"
+    },
+    {
+        "color_name": "深川鼠",
+        "color_key": "FUKAGAWANEZUMI",
+        "color_index": "174",
+        "cmyk": "063038040000",
+        "rgb": "77969A"
+    },
+    {
+        "color_name": "錆浅葱",
+        "color_key": "SABIASAGI",
+        "color_index": "175",
+        "cmyk": "066030034000",
+        "rgb": "6699A1"
+    },
+    {
+        "color_name": "水",
+        "color_key": "MIZU",
+        "color_index": "176",
+        "cmyk": "055006017000",
+        "rgb": "81C7D4"
+    },
+    {
+        "color_name": "浅葱",
+        "color_key": "ASAGI",
+        "color_index": "177",
+        "cmyk": "082018027000",
+        "rgb": "33A6B8"
+    },
+    {
+        "color_name": "御納戸",
+        "color_key": "ONANDO",
+        "color_index": "178",
+        "cmyk": "092065062025",
+        "rgb": "0C4842"
+    },
+    {
+        "color_name": "藍",
+        "color_key": "AI",
+        "color_index": "179",
+        "cmyk": "095063056017",
+        "rgb": "0D5661"
+    },
+    {
+        "color_name": "新橋",
+        "color_key": "SHINBASHI",
+        "color_index": "180",
+        "cmyk": "095031030000",
+        "rgb": "0089A7"
+    },
+    {
+        "color_name": "錆御納戸",
+        "color_key": "SABIONANDO",
+        "color_index": "181",
+        "cmyk": "087056052006",
+        "rgb": "336774"
+    },
+    {
+        "color_name": "鉄御納戸",
+        "color_key": "TETSUONANDO",
+        "color_index": "182",
+        "cmyk": "090063059021",
+        "rgb": "255359"
+    },
+    {
+        "color_name": "花浅葱",
+        "color_key": "HANAASAGI",
+        "color_index": "183",
+        "cmyk": "090032023000",
+        "rgb": "1E88A8"
+    },
+    {
+        "color_name": "藍鼠",
+        "color_key": "AINEZUMI",
+        "color_index": "184",
+        "cmyk": "078057052007",
+        "rgb": "566C73"
+    },
+    {
+        "color_name": "舛花",
+        "color_key": "MASUHANA",
+        "color_index": "185",
+        "cmyk": "078048042000",
+        "rgb": "577C8A"
+    },
+    {
+        "color_name": "空",
+        "color_key": "SORA",
+        "color_index": "186",
+        "cmyk": "072013007000",
+        "rgb": "58B2DC"
+    },
+    {
+        "color_name": "熨斗目花",
+        "color_key": "NOSHIMEHANA",
+        "color_index": "187",
+        "cmyk": "092060047004",
+        "rgb": "2B5F75"
+    },
+    {
+        "color_name": "千草",
+        "color_key": "CHIGUSA",
+        "color_index": "188",
+        "cmyk": "083031017000",
+        "rgb": "3A8FB7"
+    },
+    {
+        "color_name": "御召御納戸",
+        "color_key": "OMESHIONANDO",
+        "color_index": "189",
+        "cmyk": "090063051007",
+        "rgb": "2E5C6E"
+    },
+    {
+        "color_name": "縹",
+        "color_key": "HANADA",
+        "color_index": "190",
+        "cmyk": "100060041002",
+        "rgb": "006284"
+    },
+    {
+        "color_name": "勿忘草",
+        "color_key": "WASURENAGUSA",
+        "color_index": "191",
+        "cmyk": "052010000000",
+        "rgb": "7DB9DE"
+    },
+    {
+        "color_name": "群青",
+        "color_key": "GUNJYO",
+        "color_index": "192",
+        "cmyk": "067021000000",
+        "rgb": "51A8DD"
+    },
+    {
+        "color_name": "露草",
+        "color_key": "TSUYUKUSA",
+        "color_index": "193",
+        "cmyk": "073020000000",
+        "rgb": "2EA9DF"
+    },
+    {
+        "color_name": "黒橡",
+        "color_key": "KUROTSURUBAMI",
+        "color_index": "194",
+        "cmyk": "092078064048",
+        "rgb": "0B1013"
+    },
+    {
+        "color_name": "紺",
+        "color_key": "KON",
+        "color_index": "195",
+        "cmyk": "100085050024",
+        "rgb": "0F2540"
+    },
+    {
+        "color_name": "褐",
+        "color_key": "KACHI",
+        "color_index": "196",
+        "cmyk": "100086060045",
+        "rgb": "08192D"
+    },
+    {
+        "color_name": "瑠璃",
+        "color_key": "RURI",
+        "color_index": "197",
+        "cmyk": "097065000000",
+        "rgb": "005CAF"
+    },
+    {
+        "color_name": "瑠璃紺",
+        "color_key": "RURIKON",
+        "color_index": "198",
+        "cmyk": "100085039004",
+        "rgb": "0B346E"
+    },
+    {
+        "color_name": "紅碧",
+        "color_key": "BENIMIDORI",
+        "color_index": "199",
+        "cmyk": "064044000000",
+        "rgb": "7B90D2"
+    },
+    {
+        "color_name": "藤鼠",
+        "color_key": "FUJINEZUMI",
+        "color_index": "200",
+        "cmyk": "069056017000",
+        "rgb": "6E75A4"
+    },
+    {
+        "color_name": "鉄紺",
+        "color_key": "TETSUKON",
+        "color_index": "201",
+        "cmyk": "080065000077",
+        "rgb": "261E47"
+    },
+    {
+        "color_name": "紺青",
+        "color_key": "KONJYO",
+        "color_index": "202",
+        "cmyk": "100085015000",
+        "rgb": "113285"
+    },
+    {
+        "color_name": "紅掛花",
+        "color_key": "BENIKAKEHANA",
+        "color_index": "203",
+        "cmyk": "082070014000",
+        "rgb": "4E4F97"
+    },
+    {
+        "color_name": "紺桔梗",
+        "color_key": "KONKIKYO",
+        "color_index": "204",
+        "cmyk": "100090042012",
+        "rgb": "211E55"
+    },
+    {
+        "color_name": "藤",
+        "color_key": "FUJI",
+        "color_index": "205",
+        "cmyk": "058052000000",
+        "rgb": "8B81C3"
+    },
+    {
+        "color_name": "二藍",
+        "color_key": "FUTAAI",
+        "color_index": "206",
+        "cmyk": "072067021000",
+        "rgb": "70649A"
+    },
+    {
+        "color_name": "楝",
+        "color_key": "OUCHI",
+        "color_index": "207",
+        "cmyk": "042042000000",
+        "rgb": "9B90C2"
+    },
+    {
+        "color_name": "藤紫",
+        "color_key": "FUJIMURASAKI",
+        "color_index": "208",
+        "cmyk": "058060000000",
+        "rgb": "8A6BBE"
+    },
+    {
+        "color_name": "桔梗",
+        "color_key": "KIKYO",
+        "color_index": "209",
+        "cmyk": "075075010000",
+        "rgb": "6A4C9C"
+    },
+    {
+        "color_name": "紫苑",
+        "color_key": "SHION",
+        "color_index": "210",
+        "cmyk": "055058001000",
+        "rgb": "8F77B5"
+    },
+    {
+        "color_name": "滅紫",
+        "color_key": "MESSHI",
+        "color_index": "211",
+        "cmyk": "082080048015",
+        "rgb": "533D5B"
+    },
+    {
+        "color_name": "薄",
+        "color_key": "USU",
+        "color_index": "212",
+        "cmyk": "043051000000",
+        "rgb": "B28FCE"
+    },
+    {
+        "color_name": "半",
+        "color_key": "HASHITA",
+        "color_index": "213",
+        "cmyk": "055063000000",
+        "rgb": "986DB2"
+    },
+    {
+        "color_name": "江戸紫",
+        "color_key": "EDOMURASAKI",
+        "color_index": "214",
+        "cmyk": "060074000014",
+        "rgb": "77428D"
+    },
+    {
+        "color_name": "紫紺",
+        "color_key": "SHIKON",
+        "color_index": "215",
+        "cmyk": "088084060045",
+        "rgb": "3C2F41"
+    },
+    {
+        "color_name": "深紫",
+        "color_key": "KOKIMURASAKI",
+        "color_index": "216",
+        "cmyk": "090093043016",
+        "rgb": "4A225D"
+    },
+    {
+        "color_name": "菫",
+        "color_key": "SUMIRE",
+        "color_index": "217",
+        "cmyk": "074083022000",
+        "rgb": "66327C"
+    },
+    {
+        "color_name": "紫",
+        "color_key": "MURASAKI",
+        "color_index": "218",
+        "cmyk": "081087040007",
+        "rgb": "592C63"
+    },
+    {
+        "color_name": "菖蒲",
+        "color_key": "AYAME",
+        "color_index": "219",
+        "cmyk": "071087014000",
+        "rgb": "6F3381"
+    },
+    {
+        "color_name": "藤煤竹",
+        "color_key": "FUJISUSUTAKE",
+        "color_index": "220",
+        "cmyk": "075070057025",
+        "rgb": "574C57"
+    },
+    {
+        "color_name": "紅藤",
+        "color_key": "BENIFUJI",
+        "color_index": "221",
+        "cmyk": "038060000000",
+        "rgb": "B481BB"
+    },
+    {
+        "color_name": "黒紅",
+        "color_key": "KUROBENI",
+        "color_index": "222",
+        "cmyk": "086085064050",
+        "rgb": "3F2B36"
+    },
+    {
+        "color_name": "茄子紺",
+        "color_key": "NASUKON",
+        "color_index": "223",
+        "cmyk": "040073010073",
+        "rgb": "572A3F"
+    },
+    {
+        "color_name": "葡萄鼠",
+        "color_key": "BUDOHNEZUMI",
+        "color_index": "224",
+        "cmyk": "073077054017",
+        "rgb": "5E3D50"
+    },
+    {
+        "color_name": "鳩羽鼠",
+        "color_key": "HATOBANEZUMI",
+        "color_index": "225",
+        "cmyk": "068064051006",
+        "rgb": "72636E"
+    },
+    {
+        "color_name": "杜若",
+        "color_key": "KAKITSUBATA",
+        "color_index": "226",
+        "cmyk": "077092048021",
+        "rgb": "622954"
+    },
+    {
+        "color_name": "蒲葡",
+        "color_key": "EBIZOME",
+        "color_index": "227",
+        "cmyk": "071089048012",
+        "rgb": "6D2E5B"
+    },
+    {
+        "color_name": "牡丹",
+        "color_key": "BOTAN",
+        "color_index": "228",
+        "cmyk": "025091008000",
+        "rgb": "C1328E"
+    },
+    {
+        "color_name": "梅紫",
+        "color_key": "UMEMURASAKI",
+        "color_index": "229",
+        "cmyk": "045080037000",
+        "rgb": "A8497A"
+    },
+    {
+        "color_name": "似紫",
+        "color_key": "NISEMURASAKI",
+        "color_index": "230",
+        "cmyk": "075084062042",
+        "rgb": "562E37"
+    },
+    {
+        "color_name": "躑躅",
+        "color_key": "TSUTSUJI",
+        "color_index": "231",
+        "cmyk": "000080003000",
+        "rgb": "E03C8A"
+    },
+    {
+        "color_name": "紫鳶",
+        "color_key": "MURASAKITOBI",
+        "color_index": "232",
+        "cmyk": "070078061030",
+        "rgb": "60373E"
+    },
+    {
+        "color_name": "白練",
+        "color_key": "SHIRONERI",
+        "color_index": "233",
+        "cmyk": "000003011000",
+        "rgb": "FCFAF2"
+    },
+    {
+        "color_name": "胡粉",
+        "color_key": "GOFUN",
+        "color_index": "234",
+        "cmyk": "000000002000",
+        "rgb": "FFFFFB"
+    },
+    {
+        "color_name": "白鼠",
+        "color_key": "SHIRONEZUMI",
+        "color_index": "235",
+        "cmyk": "031023028000",
+        "rgb": "BDC0BA"
+    },
+    {
+        "color_name": "銀鼠",
+        "color_key": "GINNEZUMI",
+        "color_index": "236",
+        "cmyk": "052039036000",
+        "rgb": "91989F"
+    },
+    {
+        "color_name": "鉛",
+        "color_key": "NAMARI",
+        "color_index": "237",
+        "cmyk": "008000000073",
+        "rgb": "787878"
+    },
+    {
+        "color_name": "灰",
+        "color_key": "HAI",
+        "color_index": "238",
+        "cmyk": "000000000070",
+        "rgb": "828282"
+    },
+    {
+        "color_name": "素鼠",
+        "color_key": "SUNEZUMI",
+        "color_index": "239",
+        "cmyk": "065053053000",
+        "rgb": "787D7B"
+    },
+    {
+        "color_name": "利休鼠",
+        "color_key": "RIKYUNEZUMI",
+        "color_index": "240",
+        "cmyk": "066050054001",
+        "rgb": "707C74"
+    },
+    {
+        "color_name": "鈍",
+        "color_key": "NIBI",
+        "color_index": "241",
+        "cmyk": "005000000080",
+        "rgb": "656765"
+    },
+    {
+        "color_name": "青鈍",
+        "color_key": "AONIBI",
+        "color_index": "242",
+        "cmyk": "078063062020",
+        "rgb": "535953"
+    },
+    {
+        "color_name": "溝鼠",
+        "color_key": "DOBUNEZUMI",
+        "color_index": "243",
+        "cmyk": "078065065030",
+        "rgb": "4F4F48"
+    },
+    {
+        "color_name": "紅消鼠",
+        "color_key": "BENIKESHINEZUMI",
+        "color_index": "244",
+        "cmyk": "073069063030",
+        "rgb": "52433D"
+    },
+    {
+        "color_name": "藍墨茶",
+        "color_key": "AISUMICHA",
+        "color_index": "245",
+        "cmyk": "086072068047",
+        "rgb": "373C38"
+    },
+    {
+        "color_name": "檳榔子染",
+        "color_key": "BINROJIZOME",
+        "color_index": "246",
+        "cmyk": "079072072050",
+        "rgb": "3A3226"
+    },
+    {
+        "color_name": "消炭",
+        "color_key": "KESHIZUMI",
+        "color_index": "247",
+        "cmyk": "000000000088",
+        "rgb": "434343"
+    },
+    {
+        "color_name": "墨",
+        "color_key": "SUMI",
+        "color_index": "248",
+        "cmyk": "092078073066",
+        "rgb": "1C1C1C"
+    },
+    {
+        "color_name": "黒",
+        "color_key": "KURO",
+        "color_index": "249",
+        "cmyk": "091084074071",
+        "rgb": "080808"
+    },
+    {
+        "color_name": "呂",
+        "color_key": "RO",
+        "color_index": "250",
+        "cmyk": "000000000100",
+        "rgb": "0C0C0C"
+    }
+]

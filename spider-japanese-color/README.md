@@ -1,3 +1,3 @@
-## 渐变色网站
+## 日本传统颜色网站
 
-> [渐变色网站](https://webgradients.com)
+> [日本传统颜色网站](https://nipponcolors.com)
