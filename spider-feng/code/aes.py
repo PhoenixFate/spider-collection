@@ -1,8 +1,7 @@
 import base64
 import math
 import time
-from Crypto.Cipher import AES
-
+from Cryptodome.Cipher import AES
 
 class AESCipherCBC:
     """

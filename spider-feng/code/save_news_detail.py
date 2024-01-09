@@ -5,7 +5,7 @@ import pymongo  # 引入pymongo模块
 def save_detail_to_mongo(news_detail, tid):
     client = pymongo.MongoClient(host='www.bytes-space.com', port=21017)  # 进行连接
     db = client.feng  # 指定数据库
-    db.authenticate("feng", "feng")
+    db.authenticate("feng", "Common123qwer!@#")
     collection = db.fengNewsDetail  # 指定集合
     try:
         create_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
