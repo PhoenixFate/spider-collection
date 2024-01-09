@@ -1,4 +1,4 @@
-urllib3
+urllib3==1.23
 pycryptodomex
 requests
 js2py
