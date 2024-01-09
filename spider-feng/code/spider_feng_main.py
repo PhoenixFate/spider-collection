@@ -32,7 +32,7 @@ def spider_news():
     session = requests.session()
     # 首页新闻数据
     feng_index_url = "https://beta-api.feng.com/v1/content/list?pageCount=20&page=1&isEnd=no"
-    feng_data_url = "https://api.wfdata.club/v1/content/list?pageCount=20&page=2&isEnd="
+    feng_data_url = "https://api.feng.com/v1/content/list?pageCount=30&page=1&isEnd="
     x_request_id = get_aes_code()
     headers = {
         "Origin": "https://www.feng.com",
