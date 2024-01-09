@@ -8,4 +8,4 @@ RUN pip3 config set global.index-url http://mirrors.aliyun.com/pypi/simple
 RUN pip3 config set install.trusted-host mirrors.aliyun.com
 RUN pip3 install pip -U
 RUN pip3 install --no-cache-dir -r requirements.txt
-CMD ['python3','spider_weather.py','test']
+ENTRYPOINT python3 /code/spider_weather.py test
