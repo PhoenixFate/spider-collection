@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+pymysql
+DBUtils==3.0.3
+schedule
