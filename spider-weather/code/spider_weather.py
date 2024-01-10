@@ -118,7 +118,7 @@ class GetWeather:
         print('删除成功')
 
     def save_item(self, item):
-        snow_id = 'wea' + str(self.worker.get_id())
+        snow_id = 'Wea' + str(self.worker.get_id())
         insert_sql = "insert into weather(weather_id,province,city,area_name,area_id,weather_date,weather_datetime,weather_chinese,day_temperature,night_temperature,wind_direction,wind_power) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
         self.mysql_pool.insert_one(insert_sql,
                                    (snow_id, item['province'], item['city'], item['area_name'],
