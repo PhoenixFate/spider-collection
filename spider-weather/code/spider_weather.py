@@ -106,7 +106,6 @@ class GetWeather:
                     colors_string = ','.join(str(x) for x in one_weather['wind_list'])
                     one_weather['wind_direction'] = colors_string
                 if one_weather['day_temperature'] is not None and one_weather['day_temperature'] != '':
-                    self.delete_item(one_weather)
                     self.save_item(one_weather)
                 print(one_weather)
         else:
@@ -118,15 +117,26 @@ class GetWeather:
         print('删除成功')
 
     def save_item(self, item):
-        snow_id = 'Wea' + str(self.worker.get_id())
-        insert_sql = "insert into weather(weather_id,province,city,area_name,area_id,weather_date,weather_datetime,weather_chinese,day_temperature,night_temperature,wind_direction,wind_power) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
-        self.mysql_pool.insert_one(insert_sql,
-                                   (snow_id, item['province'], item['city'], item['area_name'],
-                                    item['area_id'], item['date'],
-                                    item['datetime'], item['weather_chinese'], item['day_temperature'],
-                                    item['night_temperature'],
-                                    item['wind_direction'], item['wind_power']))
-        print('新增成功')
+        # 先查询，如果存在则更新
+        query_one_sql = "select * from weather where area_id=%s and weather_date=%s"
+        old_data = self.mysql_pool.select_one(query_one_sql, item['area_id'], item['date'])
+        if old_data is None:
+            snow_id = 'Wea' + str(self.worker.get_id())
+            insert_sql = "insert into weather(weather_id,province,city,area_name,area_id,weather_date,weather_datetime,weather_chinese,day_temperature,night_temperature,wind_direction,wind_power) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+            self.mysql_pool.insert_one(insert_sql,
+                                       (snow_id, item['province'], item['city'], item['area_name'],
+                                        item['area_id'], item['date'],
+                                        item['datetime'], item['weather_chinese'], item['day_temperature'],
+                                        item['night_temperature'],
+                                        item['wind_direction'], item['wind_power']))
+            print('新增成功')
+        else:
+            update_sql = "update weather set weather_datetime=%s,weather_chinese=%s,day_temperature=%s,night_temperature=%s,wind_direction=%s,wind_power =%s where weather_id=%s"
+            self.mysql_pool.update_one(update_sql,
+                                       (item['datetime'], item['weather_chinese'], item['day_temperature'],
+                                        item['night_temperature'],
+                                        item['wind_direction'], item['wind_power'], old_data['weather_id']))
+            print('修改成功')
 
 
 if __name__ == '__main__':
@@ -138,8 +148,9 @@ if __name__ == '__main__':
         if sys.argv[1] == 'test':
             env = 'test'
     weather = GetWeather(env)
-    weather.__getWeatherInfo__()
+    if env == 'dev':
+        weather.__getWeatherInfo__()
     # 每一个小时跑一次爬虫
-    schedule.every().day.at('10:10').do(weather.__getWeatherInfo__)
+    schedule.every().day.at('10:30').do(weather.__getWeatherInfo__)
     while True:
         schedule.run_pending()
