@@ -151,6 +151,6 @@ if __name__ == '__main__':
     if env == 'dev':
         weather.__getWeatherInfo__()
     # 每一个小时跑一次爬虫
-    schedule.every().day.at('10:40').do(weather.__getWeatherInfo__)
+    schedule.every().day.at('10:50').do(weather.__getWeatherInfo__)
     while True:
         schedule.run_pending()
