@@ -2,6 +2,7 @@ import copy
 import datetime
 import json
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 
 import pymysql
@@ -154,3 +155,5 @@ if __name__ == '__main__':
     schedule.every().day.at('10:55').do(weather.__getWeatherInfo__)
     while True:
         schedule.run_pending()
+        # 解决一直占用cpu的问题
+        time.sleep(1)

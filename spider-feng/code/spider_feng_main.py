@@ -64,4 +64,5 @@ if __name__ == '__main__':
     schedule.every(6).hours.do(job_spider_news)
     while True:
         schedule.run_pending()
+        # 解决一直占用cpu的问题
         time.sleep(1)
